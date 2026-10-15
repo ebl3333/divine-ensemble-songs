@@ -12,7 +12,8 @@ Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` /
 | 02 The Prayer | Intro | From the whole misty valley, slow push in to Yeshua praying on the rock | 02 → keys/02-end |
 | 03 The Baptism | The Spirit of Jehovah / Is resting upon Me | Start on the dove in the parting clouds as the light rays grow, tilt down and pull back to Yeshua and John in the Jordan | keys/03-start → 03 |
 | 05 The Scroll | I'm anointed by my Father / To bring hope to the weary / To bring love to the lost | Push in over the listeners' heads to Yeshua reading the scroll; window light grows | 05 → keys/05-end |
-| 07 Rise and Walk | You have sent me with the promise / For the broken to be healed | Start on the four friends at the opened roof, tilt down and pull back to the man rising with his mat | keys/07-start → 07 |
+| 17A Lowered Through the Roof | You have sent me with the promise | From the packed room, push up toward the man on his mat being lowered through the roof in shafts of light | 17A → keys/17A-end |
+| 07 Rise and Walk | For the broken to be healed | Start on the four friends at the opened roof, tilt down and pull back to the man rising with his mat | keys/07-start → 07 |
 | 06 The Leper | Chains are breaking hearts are rising / As Your freedom is revealed | Pan right to left from the watching villagers to Yeshua's hand reaching the leper's face, gently pushing in | keys/06-start → keys/06-end |
 | 13 The Bread Shared | Jesus God's Anointed / Lifting burdens giving hope | From the hillside crowd by the sea, push in to Yeshua handing out bread with the boy | 13 → keys/13-end |
 | 08 The Crowd and the Hem | Binding wounds You heal my pain | Start on her hand reaching the tassel as Yeshua walks on, pull back to the whole market street and the city gate | keys/08-start → 08 |
@@ -27,8 +28,7 @@ Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` /
 | 12 Peace Be Still | The fearful walk in faith (verse 2 close) | Start on Yeshua with his arm raised, pull back as the storm breaks into golden sunset | keys/12-start → 12 |
 | 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight | Pan right to left from Yeshua watching down the lane to the healed man running into his family's arms | keys/15-start → keys/15-end |
 | 16 Garland for the Widow | You give garlands for the ashes / Turning mourning into song | From the singing women with drums, push in to the garland being placed on the widow's head | 16 → keys/16-end |
-| 17A Lowered Through the Roof | The broken find their healing | From the packed room, push up toward the man on his mat being lowered through the roof in shafts of light | 17A → keys/17A-end |
-| 17B Carrying the Mat | (continues) | Start on the healed man lifting his rolled mat high, pull back to Yeshua smiling and the cheering friends | keys/17B-start → 17B |
+| 17B Carrying the Mat | The broken find their healing | Start on the healed man lifting his rolled mat high, pull back to Yeshua smiling and the cheering friends | keys/17B-start → 17B |
 | 18 Rest Under the Olive Tree | The weary find their rest | From the resting villagers by the sunset sea, slow push in to Yeshua and the boy at his side | 18 → keys/18-end |
 | 19A → 19B The Village Dance | The mourning find their dancing | One crane move: start at street level in the circle dance at sunset (19A) and rise up high above the whole square and the hills (19B) | 19A → 19B |
 | 21 She Stands Tall | The fallen stand victorious | Start on Yeshua holding her hands as she stands, pull back to the market street, the crowd and the sea beyond | keys/21-start → 21 |

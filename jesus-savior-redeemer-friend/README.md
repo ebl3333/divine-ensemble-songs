@@ -29,7 +29,8 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 02 The Prayer | Intro |
 | 03 The Baptism | The Spirit of Jehovah / Is resting upon Me |
 | 05 The Scroll | I'm anointed by my Father / To bring hope to the weary / To bring love to the lost |
-| 07 Rise and Walk | You have sent me with the promise / For the broken to be healed |
+| 17A Lowered Through the Roof | You have sent me with the promise |
+| 07 Rise and Walk | For the broken to be healed |
 | 06 The Leper | Chains are breaking hearts are rising / As Your freedom is revealed |
 | 13 The Bread Shared | Jesus God's Anointed / Lifting burdens giving hope |
 | 08 The Crowd and the Hem | Binding wounds You heal my pain |
@@ -43,7 +44,7 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 12 Peace Be Still | The fearful walk in faith |
 | 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight |
 | 16 Garland for the Widow | You give garlands for the ashes / Turning mourning into song |
-| 17A Lowered Through the Roof → 17B Carrying the Mat | The broken find their healing |
+| 17B Carrying the Mat | The broken find their healing |
 | 18 Rest Under the Olive Tree | The weary find their rest |
 | 19A → 19B The Village Dance (crane up) | The mourning find their dancing |
 | 21 She Stands Tall | The fallen stand victorious |
@@ -52,7 +53,7 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 23 Breakfast on the Shore | Later chorus |
 | 24 The Road With Him | Final "Jesus Savior My Redeemer / Precious Guardian precious Friend" |
 
-The closing chorus repeats also use the close start/end frames of the earlier scenes as separate shots, so no shot plays twice.
+The roof story is told once, in order: lowered (17A) and told to rise (07) in verse 1, then carrying his mat in the bridge (17B). The closing chorus repeats also use the close start/end frames of the earlier scenes as separate shots, so no shot plays twice.
 
 ## Folders
 
