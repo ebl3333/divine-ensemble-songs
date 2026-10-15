@@ -36,8 +36,8 @@ ev.append("Dialogue: 0,0:00:03.20,0:00:09.50,Sub,,0,0,0,,{\\fad(1200,1200)\\pos(
 # end card
 E = 332.0
 cr = [("Title", "God Is About to Show Up", 420, 0.0), ("Sub", "DIVINE ENSEMBLE", 520, 0.4),
-      ("Credit", "Songwriter  Michael Bowman", 640, 1.0), ("Credit", "Producer  Edward Liu", 700, 1.3),
-      ("Sub", "dazadi.org", 800, 1.8)]
+      ("Credit", "Songwriter  Michael Bowman", 630, 1.0), ("Credit", "Producer  Edward Liu", 690, 1.3),
+      ("Credit", "Production  Dazadi Music", 750, 1.6), ("Sub", "dazadi.org", 850, 2.0)]
 for st, t, y, dl in cr:
     ev.append(f"Dialogue: 1,{ts(E + dl)},{ts(E + 8.5)},{st},,0,0,0,,{{\\fad(900,900)\\pos(960,{y})}}{t}")
 open('lyrics.ass', 'w').write(hdr + "\n".join(ev) + "\n")
