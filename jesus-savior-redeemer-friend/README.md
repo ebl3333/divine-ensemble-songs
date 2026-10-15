@@ -21,7 +21,7 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 11 | Boy with the loaves | 13 |
 | 12 | Wedding steward and servants | 09 |
 
-## stills/ — 26 widescreen scenes (1920×1080), first draft lyric map
+## stills/ — 29 widescreen pictures (26 scenes; 11, 17 and 19 have A/B shots) (1920×1080), first draft lyric map
 
 | Scene | Lyric |
 | --- | --- |
@@ -37,15 +37,15 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 10 The Widow's Son | Beauty rises from the ashes / In Your love You set me free |
 | 14 Follow Me | Jesus Savior My Redeemer / Precious Guardian precious Friend |
 | 25 Hillside Teaching | You declare this is the season / Of Your mercy of Your light |
-| 11 Bartimaeus Sees | Binding wounds You heal my pain (second chorus) |
+| 11A Bartimaeus Blind → 11 Bartimaeus Sees | Binding wounds You heal my pain (second chorus) |
 | 26 The Storm | By Your Spirit we are rising |
 | 04 Upon the Waters | In Your strength we soar along |
 | 12 Peace Be Still | The fearful walk in faith |
 | 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight |
 | 16 Garland for the Widow | You give garlands for the ashes / Turning mourning into song |
-| 17 Carrying the Mat | The broken find their healing |
+| 17A Lowered Through the Roof → 17B Carrying the Mat | The broken find their healing |
 | 18 Rest Under the Olive Tree | The weary find their rest |
-| 19 The Village Dance | The mourning find their dancing |
+| 19A → 19B The Village Dance (crane up) | The mourning find their dancing |
 | 21 She Stands Tall | The fallen stand victorious |
 | 20 Peter Steps Out | The fearful walk in faith (bridge) |
 | 22 Bartimaeus Follows | The prisoners find freedom |
