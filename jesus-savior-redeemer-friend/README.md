@@ -48,3 +48,4 @@ Later choruses and the bridge need more shots, so no scene repeats.
 - `stills/` — one picture per scene
 - `clips/` — each still animated into a moving clip
 - `final/` — the finished music video
+- `CAMERA-PLAN.md` — how the camera moves across each wide still
