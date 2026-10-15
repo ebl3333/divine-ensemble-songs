@@ -4,7 +4,7 @@ Ed's stills are wide on purpose so the camera can travel across them. Each clip 
 
 General rules (same as God Is About to Show Up): the camera is never still and moves in depth. Pans travel right to left, and the next pan continues right to left so cuts don't jar. Moves alternate between pushing in and pulling back. Glow and light grow from nothing. Every move eases in and out. Color stays gold; the two storm scenes start cold and are warmed toward gold as the calm comes. Some of Yeshua's face is shown, not too much.
 
-Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` / `NN-end.jpg` are the closer frames cut from it (in the full picture they are the green and red boxes in the preview).
+Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` / `NN-end.jpg` are the closer frames cut from it (each 70% of the picture, so they stay sharp) (in the full picture they are the green and red boxes in the preview).
 
 | Scene | Lyric | Camera move | First frame → Last frame |
 | --- | --- | --- | --- |
