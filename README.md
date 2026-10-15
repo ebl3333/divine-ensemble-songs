@@ -7,6 +7,7 @@ Music videos for Divine Ensemble (Dazadi Foundation). One folder per song.
 | [God Is About to Show Up](god-is-about-to-show-up/) | God Is About to Show Up | Stills done, clips in progress |
 | [Deliverance: Shackles to Freedom](deliverance-shackles-to-freedom/) | Deliverance: Shackles to Freedom | Not started |
 | [I Am](i-am/) | I Am | Not started |
+| [Jesus Savior Redeemer Friend](jesus-savior-redeemer-friend/) | God Is About to Show Up | Characters and 14 scene stills in |
 
 ## Inside each song folder
 
