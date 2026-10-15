@@ -21,7 +21,7 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 11 | Boy with the loaves | 13 |
 | 12 | Wedding steward and servants | 09 |
 
-## stills/ — 14 widescreen scenes (1920×1080), first draft lyric map
+## stills/ — 24 widescreen scenes (1920×1080), first draft lyric map
 
 | Scene | Lyric |
 | --- | --- |
@@ -39,8 +39,18 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 11 Bartimaeus Sees | You declare this is the season / Of Your mercy of Your light |
 | 04 Upon the Waters | By Your Spirit we are rising / In Your strength we soar along |
 | 12 Peace Be Still | The fearful walk in faith |
+| 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight |
+| 16 Garland for the Widow | You give garlands for the ashes / Turning mourning into song |
+| 17 Carrying the Mat | The broken find their healing |
+| 18 Rest Under the Olive Tree | The weary find their rest |
+| 19 The Village Dance | The mourning find their dancing |
+| 21 She Stands Tall | The fallen stand victorious |
+| 20 Peter Steps Out | The fearful walk in faith (bridge) |
+| 22 Bartimaeus Follows | The prisoners find freedom |
+| 23 Breakfast on the Shore | Later chorus |
+| 24 The Road With Him | Final "Jesus Savior My Redeemer / Precious Guardian precious Friend" |
 
-Later choruses and the bridge need more shots, so no scene repeats.
+The closing chorus repeats also use the close start/end frames of the earlier scenes as separate shots, so no shot plays twice.
 
 ## Folders
 
