@@ -45,7 +45,7 @@ Later choruses and the bridge need more shots, so no scene repeats.
 ## Folders
 
 - `references/` — character sheets
-- `stills/` — one picture per scene
+- `stills/` — one picture per scene (`stills/spares/` holds earlier versions)
 - `clips/` — each still animated into a moving clip
 - `final/` — the finished music video
 - `CAMERA-PLAN.md` — how the camera moves across each wide still

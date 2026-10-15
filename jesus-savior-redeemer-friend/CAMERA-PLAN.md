@@ -16,8 +16,8 @@ Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` /
 | 06 The Leper | Chains are breaking hearts are rising / As Your freedom is revealed | Pan right to left from the watching villagers to Yeshua's hand reaching the leper's face, gently pushing in | keys/06-start → keys/06-end |
 | 13 The Bread Shared | Jesus God's Anointed / Lifting burdens giving hope | From the hillside crowd by the sea, push in to Yeshua handing out bread with the boy | 13 → keys/13-end |
 | 08 The Crowd and the Hem | Binding wounds You heal my pain | Start close on her hand touching the tassel, pull back to show the pressing crowd and Yeshua turning | keys/08-start → 08 |
-| 09 New Wine | Pouring gladness over me | Waiting for the redo. Plan: pan right to left across the stone jars as the wine pours, ending on the steward's amazed smile | set when the new still arrives |
-| 10 The Widow's Son | Beauty rises from the ashes / In Your love You set me free | Waiting for the redo. Plan: pull back from the mother and son embracing to reveal Yeshua and the crowd at the gate | set when the new still arrives |
+| 09 New Wine | Pouring gladness over me | Pan right to left from the servants pouring red wine from the stone jars to the steward's amazed smile, with Yeshua smiling behind | keys/09-start → keys/09-end |
+| 10 The Widow's Son | Beauty rises from the ashes / In Your love You set me free | Start close on the mother holding her son's face, pull back to reveal Yeshua at the bier and the rejoicing crowd at the gate | keys/10-start → 10 |
 | 14 Follow Me | Jesus Savior My Redeemer / Precious Guardian precious Friend | From the shore with the fishermen and boat, push in toward Yeshua's reaching hand and face | 14 → keys/14-end |
 | 11 Bartimaeus Sees | You declare this is the season / Of Your mercy of Your light | Start close on Bartimaeus lifting his arms, pull back past Yeshua's shoulder to the crowd | keys/11-start → 11 |
 | 04 Upon the Waters | By Your Spirit we are rising / In Your strength we soar along | Pan right to left from the frightened men in the boat to Yeshua walking on the waves | keys/04-start → keys/04-end |
