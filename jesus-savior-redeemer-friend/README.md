@@ -21,7 +21,7 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 11 | Boy with the loaves | 13 |
 | 12 | Wedding steward and servants | 09 |
 
-## stills/ — 25 widescreen scenes (1920×1080), first draft lyric map
+## stills/ — 26 widescreen scenes (1920×1080), first draft lyric map
 
 | Scene | Lyric |
 | --- | --- |
@@ -38,7 +38,8 @@ The song is Isaiah 61, which Yeshua reads in the synagogue in Luke 4. The video 
 | 14 Follow Me | Jesus Savior My Redeemer / Precious Guardian precious Friend |
 | 25 Hillside Teaching | You declare this is the season / Of Your mercy of Your light |
 | 11 Bartimaeus Sees | Binding wounds You heal my pain (second chorus) |
-| 04 Upon the Waters | By Your Spirit we are rising / In Your strength we soar along |
+| 26 The Storm | By Your Spirit we are rising |
+| 04 Upon the Waters | In Your strength we soar along |
 | 12 Peace Be Still | The fearful walk in faith |
 | 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight |
 | 16 Garland for the Widow | You give garlands for the ashes / Turning mourning into song |
