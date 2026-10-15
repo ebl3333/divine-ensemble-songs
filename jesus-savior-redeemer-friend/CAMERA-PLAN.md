@@ -19,7 +19,8 @@ Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` /
 | 09 New Wine | Pouring gladness over me | Pan right to left from the servants pouring red wine from the stone jars to the steward's amazed smile, with Yeshua smiling behind | keys/09-start → keys/09-end |
 | 10 The Widow's Son | Beauty rises from the ashes / In Your love You set me free | Start close on the mother holding her son's face, pull back to reveal Yeshua at the bier and the rejoicing crowd at the gate | keys/10-start → 10 |
 | 14 Follow Me | Jesus Savior My Redeemer / Precious Guardian precious Friend | From the shore with the fishermen and boat, push in toward Yeshua's reaching hand and face | 14 → keys/14-end |
-| 11 Bartimaeus Sees | You declare this is the season / Of Your mercy of Your light | Start close on Bartimaeus lifting his arms, pull back past Yeshua's shoulder to the crowd | keys/11-start → 11 |
+| 25 Hillside Teaching | You declare this is the season / Of Your mercy of Your light | From the whole flowered hillside over the sea at sunset, push in to Yeshua speaking with open hands | 25 → keys/25-end |
+| 11 Bartimaeus Sees | Binding wounds You heal my pain (second chorus) | Start close on Bartimaeus lifting his arms, pull back past Yeshua's shoulder to the crowd | keys/11-start → 11 |
 | 04 Upon the Waters | By Your Spirit we are rising / In Your strength we soar along | Pan right to left from the frightened men in the boat to Yeshua walking on the waves | keys/04-start → keys/04-end |
 | 12 Peace Be Still | The fearful walk in faith (verse 2 close) | Start on Yeshua with his arm raised, pull back as the storm breaks into golden sunset | keys/12-start → 12 |
 | 15 The Leper Runs Home | Every captive finds redemption / Every prisoner takes flight | Pan right to left from Yeshua watching down the lane to the healed man running into his family's arms | keys/15-start → keys/15-end |
@@ -27,7 +28,7 @@ Frames: `stills/NN_*.jpg` is the full wide picture. `stills/keys/NN-start.jpg` /
 | 17 Carrying the Mat | The broken find their healing | Start on the healed man's raised arm and laughing face, pull back to his dancing friends and the amazed street | keys/17-start → 17 |
 | 18 Rest Under the Olive Tree | The weary find their rest | From the resting villagers by the sunset sea, slow push in to Yeshua and the boy at his side | 18 → keys/18-end |
 | 19 The Village Dance | The mourning find their dancing | Pan right to left with the circle dance, ending on the flute and drum players | keys/19-start → keys/19-end |
-| 21 She Stands Tall | The fallen stand victorious | Start close on their clasped hands and her shining face, pull back to the crowd standing back in wonder | keys/21-start → 21 |
+| 21 She Stands Tall | The fallen stand victorious | Start on Yeshua holding her hands as she stands, pull back to the market street, the crowd and the sea beyond | keys/21-start → 21 |
 | 20 Peter Steps Out | The fearful walk in faith | From the boat and the open sea, push in to Peter on the water reaching for Yeshua's hand | 20 → keys/20-end |
 | 22 Bartimaeus Follows | The prisoners find freedom | Start on Bartimaeus looking up in wonder beside Yeshua, pull back to the whole crowd on the road | keys/22-start → 22 |
 | 23 Breakfast on the Shore | Pouring gladness over me (later chorus) | From the whole circle around the fire, push in to Yeshua handing bread to Peter, sunrise on the water | 23 → keys/23-end |
