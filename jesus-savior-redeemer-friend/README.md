@@ -57,8 +57,14 @@ The roof story is told once, in order: lowered (17A) and told to rise (07) in ve
 
 ## Folders
 
-- `references/` — character sheets
-- `stills/` — one picture per scene (`stills/spares/` holds earlier versions)
-- `clips/` — each still animated into a moving clip
-- `final/` — the finished music video
-- `CAMERA-PLAN.md` — how the camera moves across each wide still
+| Folder / file | What's in it |
+| --- | --- |
+| `SHOT-LIST.md` | The 54-shot plan, line by line (editable copy: the Claude doc "Jesus Savior Redeemer Friend — Shot List") |
+| `references/` | 12 character sheets — the locked faces and costumes |
+| `stills/` | One starting picture per scene (`stills/spares/` = earlier versions) |
+| `prompts/` | The ChatGPT prompts used for this song's pictures |
+| `clips/` | The LTX moving clips (`clips/tests/` = test clips) |
+| `final/` | Lyric timing and, later, the finished video |
+| `plans/` | Earlier plans kept for reference (first camera plan and its cut frames) |
+
+The cinematic prompt director used for all songs is in [`../prompts/`](../prompts/).
