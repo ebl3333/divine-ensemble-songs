@@ -1,268 +1,796 @@
 # Abide in Me — LTX clip prompts (44 shots)
 
-Each prompt is one paragraph: the look for that rung of the ladder → Yeshua (if present) → the people → scene → action → camera → light → lens → how the frame ends, then the AVOID line. One prompt = one clip, 8 seconds or less, with the shot's still as the starting picture. Settings: 1920×1080, 24 fps (shot 32 at 48 fps), prompt enhancer off.
+Each shot shows its eight fields, then the prompt LTX gets: one paragraph plus the AVOID line, sent as is. Settings: 1920×1080, 24 fps (shot 32 at 48 fps), clip 8 seconds or less, prompt enhancer off. Image-to-video shots start from the shot's still; text-to-video shots are described only.
 
-Hebrew letters: the real letters (John 15:4–5, אנכי הגפן ואתם השריגים · עמדו בי ואני בכם) are drawn into the starting stills with a proper font; the prompts only ask LTX to make them drift and glow.
+Hebrew letters (John 15:4–5, אנכי הגפן ואתם השריגים · עמדו בי ואני בכם) are drawn into the stills with a proper font; the prompts only make them drift and glow.
 
-## 01 — Before the Light · 0:00–0:07 · 7 s · The Word (dream) · Text-to-video
+## 01 · 0:00–0:07 · Before the Light
+
+- **Subject:** A single point of light that opens into a glowing Hebrew letter aleph
+- **Action:** One point of light breathes in the dark, slowly swelling and dimming like a heartbeat, then opens into a single glowing Hebrew letter, aleph, made of soft living fire.
+- **Scene:** A warm-gold darkness with no floor, no sky and no horizon, deep as the inside of a closed eye.
+- **Camera Movement:** Drifts forward through the dark toward the light, weightless, as if carried on breath. Ends on: The aleph glows alone and close in the center of the dark.
+- **Lighting Setup:** Total darkness warmed to deep amber; one breathing point of gold light as the only source, grows from nothing
+- **Tone and Mood:** Hush. Something is about to be spoken. Awe before beginning; the stillness before a voice.
+- **Visual Texture:** The Word (dream). A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. Sense: The faint warmth of a candle seen through closed eyelids; a low hum you feel more than hear.
+- **Avoid:** No stars, planets or space imagery; no sudden flash; no readable caption; the light grows from nothing, never pops on. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. A warm-gold darkness with no floor, no sky and no horizon, deep as the inside of a closed eye. One point of light breathes in the dark, slowly swelling and dimming like a heartbeat, then opens into a single glowing Hebrew letter, aleph, made of soft living fire. The camera drifts forward through the dark toward the light, weightless, as if carried on breath. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens, soft focus at the edges. The shot ends: the aleph glows alone and close in the center of the dark.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 02 — The Letters Awaken · 0:07–0:13 · 6 s · The Word (dream) · Text-to-video
+## 02 · 0:07–0:13 · The Letters Awaken
+
+- **Subject:** Dozens of glowing Hebrew letters rising like embers
+- **Action:** Dozens of glowing Hebrew letters rise out of the dark water like embers lifting from a fire, turning slowly, some drifting upward, some falling upward, gathering into loose constellations.
+- **Scene:** The same golden darkness, now like still water reflecting a sky that isn't there; dream logic, up and down the same.
+- **Camera Movement:** Floats slowly between the rising letters, gliding right to left as they pass close by the lens. Ends on: A wide field of floating golden letters hanging in the dark like stars over water.
+- **Lighting Setup:** Dark gold ambience; each rising letter is its own soft light source, reflected in still dark water below
+- **Tone and Mood:** Wonder. The Word stirs. Like waking inside a dream and knowing it means something.
+- **Visual Texture:** The Word (dream). A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. Sense: Embers rising on warm air; ripples spreading without a sound.
+- **Avoid:** No Matrix green or computer-code look; no clean typed text in rows; letters stay soft, alive and gold. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. The same golden darkness, now like still water reflecting a sky that isn't there; dream logic, up and down the same. Dozens of glowing Hebrew letters rise out of the dark water like embers lifting from a fire, turning slowly, some drifting upward, some falling upward, gathering into loose constellations. The camera floats slowly between the rising letters, gliding right to left as they pass close by the lens. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens, shallow depth of field. The shot ends: a wide field of floating golden letters hanging in the dark like stars over water.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 03 — The Vine of Letters · 0:13–0:20 · 7 s · The Word (dream) · Text-to-video
+## 03 · 0:13–0:20 · The Vine of Letters
+
+- **Subject:** A living vine grown from flowing Hebrew letters of light
+- **Action:** The letters stream together stroke by stroke and knit into a living vine of light: a trunk of flowing Hebrew script, branches curling outward, leaves unfolding from single letters, golden sap pulsing up through it.
+- **Scene:** The dream-dark, now with the floating letters drawn toward one place.
+- **Camera Movement:** Slowly tilts up along the growing trunk from its roots of script to its branches. Ends on: The vine of light fills the frame, branches reaching outward into the dark.
+- **Lighting Setup:** Light comes from inside the vine itself: golden sap pulsing up the trunk, everything else falling to warm dark
+- **Tone and Mood:** Life taking shape. Order out of the formless. The first breath of creation; the Word becoming something that lives.
+- **Visual Texture:** The Word (dream). A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. Sense: The slow creak of growing wood; warmth rising like sap.
+- **Avoid:** No glowing tree-of-life cliché clip art; no symmetrical logo shape; it grows organically, never instantly. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. The dream-dark, now with the floating letters drawn toward one place. The letters stream together stroke by stroke and knit into a living vine of light: a trunk of flowing Hebrew script, branches curling outward, leaves unfolding from single letters, golden sap pulsing up through it. The camera slowly tilts up along the growing trunk from its roots of script to its branches. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: the vine of light fills the frame, branches reaching outward into the dark.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 04 — Branches Without Sap · 0:20–0:26 · 6 s · The Word (dream) · Text-to-video
+## 04 · 0:20–0:26 · Branches Without Sap
+
+- **Subject:** The vine of light, and faint grey outlines of people of every age drifting away from it
+- **Action:** Faint grey outlines of human figures float loose in the dark like unfinished pencil sketches, many of them, of every age; cut off from the vine, their thin lines flicker and fade as they drift away.
+- **Scene:** The edges of the dream-dark, away from the glowing vine.
+- **Camera Movement:** Pulls slowly back from the vine to reveal the drifting grey figures between it and the dark. Ends on: Wide: the bright vine on one side, the faint grey figures scattered and drifting in the dark.
+- **Lighting Setup:** Bright gold vine on one side as key light; the drifting grey figures lit only by its fading spill, cold at the edges
+- **Tone and Mood:** Ache. Something is missing in them. Longing; people who are only an outline of themselves.
+- **Visual Texture:** The Word (dream). A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. Sense: Cold air at the edge of a warm room; a sound fading out.
+- **Avoid:** Not frightening or ghostly horror; no faces in pain; just faint, hollow and drifting. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > A dreamlike, formless world: an endless warm-gold darkness like the inside of a dream, soft and illogical, where living Hebrew letters made of light drift, breathe and change shape. The edges of the dream-dark, away from the glowing vine. Faint grey outlines of human figures float loose in the dark like unfinished pencil sketches, many of them, of every age; cut off from the vine, their thin lines flicker and fade as they drift away. The camera pulls slowly back from the vine to reveal the drifting grey figures between it and the dark. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: wide: the bright vine on one side, the faint grey figures scattered and drifting in the dark.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 05 — The World Is Drawn · 0:26–0:32 · 6 s · Drawn (2D) · Image-to-video
+## 05 · 0:26–0:32 · The World Is Drawn
+
+- **Subject:** Grey pencil-drawn people on a city street, among them a girl, a cleaner, a builder, a teenage boy and an old man at a window
+- **Action:** Many pencil-grey people walk the street with heads down, uncolored and hollow; among them a girl with braids, a woman in a uniform, a man in a hard hat, a boy with earbuds, an old man with a cane at an upstairs window.
+- **Scene:** The dream flattens into a hand-drawn city street on warm parchment: an apartment building, a bus stop, a corner shop, all in fine ink line, uncolored.
+- **Camera Movement:** Glides sideways right to left along the drawn street like a page being turned slowly. Ends on: Wide on the drawn street and the five-story apartment building, its windows still dark.
+- **Lighting Setup:** Flat early-dawn wash on parchment, grey ink, the faintest gold on the paper's edges
+- **Tone and Mood:** Recognition. This is our world, sketched. Ordinary life before it is alive.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: The scratch of a pen on paper; the hush of a city at dawn.
+- **Avoid:** No color yet except faint gold at the edges; no cartoon exaggeration or comic faces; tender, not cute. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. The dream flattens into a hand-drawn city street on warm parchment: an apartment building, a bus stop, a corner shop, all in fine ink line, uncolored. Many pencil-grey people walk the street with heads down, uncolored and hollow; among them a girl with braids, a woman in a uniform, a man in a hard hat, a boy with earbuds, an old man with a cane at an upstairs window. The camera glides sideways right to left along the drawn street like a page being turned slowly. The color stays warm gold, and any light grows slowly from nothing, never flashing. Flat 2D framing. The shot ends: wide on the drawn street and the five-story apartment building, its windows still dark.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 06 — The Light Finds the Child · 0:32–0:38 · 6 s · Drawn (2D) · Image-to-video
+## 06 · 0:32–0:38 · The Light Finds the Child
+
+- **Subject:** Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan
+- **Action:** A thin stream of tiny glowing Hebrew letters flows down from above like falling seeds and enters Ana's forehead; watercolor color floods her figure from the inside out, her yellow cardigan blooming, her face lighting up; she looks up and laughs.
+- **Scene:** The drawn street at the building's front steps.
+- **Camera Movement:** Pushes slowly in on Ana as the color fills her. Ends on: Close on Ana's colored, laughing face amid the grey street.
+- **Lighting Setup:** Soft top light from the falling letters; watercolor color blooming warm from inside Ana
+- **Tone and Mood:** Delight. The first branch takes life. Joy as simple as a child's.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Warm water spreading through paper; a small bright laugh.
+- **Avoid:** The letters never land as a caption or readable line; no flash; color soaks in slowly like watercolor. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. The drawn street at the building's front steps. A thin stream of tiny glowing Hebrew letters flows down from above like falling seeds and enters Ana's forehead; watercolor color floods her figure from the inside out, her yellow cardigan blooming, her face lighting up; she looks up and laughs. The camera pushes slowly in on Ana as the color fills her. The color stays warm gold, and any light grows slowly from nothing, never flashing. Close 2D framing. The shot ends: close on Ana's colored, laughing face amid the grey street.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 07 — Hand to Hand · 0:38–0:45 · 7 s · Drawn (2D) · Image-to-video
+## 07 · 0:38–0:45 · Hand to Hand
+
+- **Subject:** Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves
+- **Action:** Ana runs to her mother and takes her hand; color flows from the child's hand through their joined fingers up Rosa's arm until the tired grey woman blooms into warm color and kneels to hug her daughter.
+- **Scene:** The building's doorway at dawn; Rosa, still grey, coming home from her night shift.
+- **Camera Movement:** Follows the flow of color along their joined arms, moving right to left. Ends on: Medium on mother and daughter embracing in full color in the grey doorway.
+- **Lighting Setup:** Dawn backlight in the doorway; warm color traveling up Rosa's arm as the brightest point
+- **Tone and Mood:** Tenderness. The light passes on. Love moving from one person to the next.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: A small warm hand in a cold one.
+- **Avoid:** Rosa is not made to kneel in worship, only to hug her daughter; no sparkles, the color flows like ink. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. The building's doorway at dawn; Rosa, still grey, coming home from her night shift. Ana runs to her mother and takes her hand; color flows from the child's hand through their joined fingers up Rosa's arm until the tired grey woman blooms into warm color and kneels to hug her daughter. The camera follows the flow of color along their joined arms, moving right to left. The color stays warm gold, and any light grows slowly from nothing, never flashing. Medium 2D framing. The shot ends: medium on mother and daughter embracing in full color in the grey doorway.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 08 — The One Who Turns Away · 0:45–0:51 · 6 s · Drawn (2D) · Image-to-video
+## 08 · 0:45–0:51 · The One Who Turns Away
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** David, a grey sketch, sees the glowing stream reach toward him, hesitates, then turns his back and walks into the alley; with each step his lines grow fainter and greyer.
+- **Scene:** A drawn alley beside the building, the stream of light glowing at its mouth.
+- **Camera Movement:** Stays at the alley's mouth and lets him walk away, drifting slowly back. Ends on: Wide on the empty alley, David's faint outline small at its far end.
+- **Lighting Setup:** Light stream glowing warm at the alley mouth behind camera; David walks into flat grey shade
+- **Tone and Mood:** Sorrow. A branch refuses. The ache of watching someone you love choose the dark.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Footsteps fading; a door closing somewhere.
+- **Avoid:** Do not make him a villain; he is lost, not evil; no menacing shadows or monsters. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. A drawn alley beside the building, the stream of light glowing at its mouth. David, a grey sketch, sees the glowing stream reach toward him, hesitates, then turns his back and walks into the alley; with each step his lines grow fainter and greyer. The camera stays at the alley's mouth and lets him walk away, drifting slowly back. The color stays warm gold, and any light grows slowly from nothing, never flashing. Medium 2D framing. The shot ends: wide on the empty alley, David's faint outline small at its far end.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 09 — The Vinedresser of Light · 0:51–0:58 · 7 s · Drawn (2D) · Image-to-video
+## 09 · 0:51–0:58 · The Vinedresser of Light
+
+- **Subject:** Yeshua as a tall figure outlined in gold light, cream tunic and striped mantle, no drawn face; drawn disciples on a terrace wall
+- **Action:** Yeshua walks between the rows; where his hand of light touches a vine, gold flows through it; he lifts one branch to show the disciples how it joins the vine.
+- **Scene:** A drawn vineyard on a hillside in gold-leaf watercolor, rows of vines in ink line, a few drawn disciples sitting on a terrace wall.
+- **Camera Movement:** Tracks beside him, right to left, at walking pace, like an illuminated page turning. Ends on: Medium on Yeshua's glowing figure holding up the branch, the vineyard behind him.
+- **Lighting Setup:** Warm gold-leaf sunlight across the drawn vineyard; Yeshua's outline is the brightest light in frame
+- **Tone and Mood:** Gentle authority. He is the source. Peace; the one everything flows from.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Sun-warmed leaves; a calm voice you don't hear but feel.
+- **Avoid:** Yeshua has no drawn facial features; he never sings or mouths words; no halo ring. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Yeshua is drawn as a tall figure outlined in living gold light, in a cream tunic and a striped mantle, his face a soft glow with no drawn features. He never sings or mouths words. A drawn vineyard on a hillside in gold-leaf watercolor, rows of vines in ink line, a few drawn disciples sitting on a terrace wall. Yeshua walks between the rows; where his hand of light touches a vine, gold flows through it; he lifts one branch to show the disciples how it joins the vine. The camera tracks beside him, right to left, at walking pace, like an illuminated page turning. The color stays warm gold, and any light grows slowly from nothing, never flashing. Medium 2D framing. The shot ends: medium on Yeshua's glowing figure holding up the branch, the vineyard behind him.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 10 — The Mind Lit · 0:58–1:05 · 7 s · Drawn (2D) · Image-to-video
+## 10 · 0:58–1:05 · The Mind Lit
+
+- **Subject:** Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat
+- **Action:** Tiny glowing Hebrew letters drift into his head like seeds into soil; inside his drawn outline they spread into a constellation of light through his mind, then run down like roots into his chest, and his heart glows; he lifts his eyes, color rising through him.
+- **Scene:** Close on Tomas on the drawn building site, hard hat in hand, tired.
+- **Camera Movement:** Pushes in slowly toward his head, then tilts down to his chest following the light. Ends on: Close on Tomas's face lifting, the glow in his chest.
+- **Lighting Setup:** Muted grey site light; a constellation of gold inside his head and chest becomes the key light
+- **Tone and Mood:** Revelation. Understanding dawns. The moment knowledge becomes life.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Like a thought arriving in perfect silence.
+- **Avoid:** Not a sci-fi brain scan or circuitry; letters stay soft and gold; no flash. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Close on Tomas on the drawn building site, hard hat in hand, tired. Tiny glowing Hebrew letters drift into his head like seeds into soil; inside his drawn outline they spread into a constellation of light through his mind, then run down like roots into his chest, and his heart glows; he lifts his eyes, color rising through him. The camera pushes in slowly toward his head, then tilts down to his chest following the light. The color stays warm gold, and any light grows slowly from nothing, never flashing. Close 2D framing. The shot ends: close on Tomas's face lifting, the glow in his chest.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 11 — One Vine · 1:05–1:13 · 8 s · Drawn (2D) · Image-to-video
+## 11 · 1:05–1:13 · One Vine
+
+- **Subject:** Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** A thread of light like a vine runs through the walls from apartment to apartment, linking each person; Rosa, Tomas and Ana glow in color, Eli and Samuel still grey but the vine of light reaching toward them.
+- **Scene:** The whole drawn apartment building seen like an open dollhouse: Ana and Rosa in their kitchen, Tomas on the stairs, Eli in his room, Samuel alone upstairs.
+- **Camera Movement:** Flows in one unbroken move up through the building from floor to floor. Ends on: Wide on the whole building, the vine of light running through it.
+- **Lighting Setup:** Night interior washes in each room; the vine of light through the walls is the main source, brighter where people are lit
+- **Tone and Mood:** Belonging. Many become one. One body; nobody is separate.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: The building creaking and breathing together like one house.
+- **Avoid:** No floor-plan diagram look; no captions or names on doors; keep it hand-drawn and warm. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. The whole drawn apartment building seen like an open dollhouse: Ana and Rosa in their kitchen, Tomas on the stairs, Eli in his room, Samuel alone upstairs. A thread of light like a vine runs through the walls from apartment to apartment, linking each person; Rosa, Tomas and Ana glow in color, Eli and Samuel still grey but the vine of light reaching toward them. The camera flows in one unbroken move up through the building from floor to floor. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide 2D framing. The shot ends: wide on the whole building, the vine of light running through it.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 12 — Dry Branches · 1:13–1:20 · 7 s · Drawn (2D) · Text-to-video
+## 12 · 1:13–1:20 · Dry Branches
+
+- **Subject:** Grey sketched people standing apart in a field
+- **Action:** The grey, unconnected figures slowly dry out like dead vine wood; their pencil lines crack and crumble into dust that blows away in the wind.
+- **Scene:** A drawn field outside the city under a pale sky, grey sketched people standing apart from one another.
+- **Camera Movement:** Drifts slowly past them, right to left. Ends on: Wide on the empty field, a little dust drifting where the figures stood.
+- **Lighting Setup:** Pale, cool, shadowless daylight; no gold, only a little warmth on the drifting dust
+- **Tone and Mood:** Gravity. Without Him, nothing lasts. Sober truth, not fear.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Dry leaves skittering; wind across a field.
+- **Avoid:** No suffering faces, no fire or burning people; they fade like old pencil, peacefully, not violently. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. A drawn field outside the city under a pale sky, grey sketched people standing apart from one another. The grey, unconnected figures slowly dry out like dead vine wood; their pencil lines crack and crumble into dust that blows away in the wind. The camera drifts slowly past them, right to left. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide 2D framing. The shot ends: wide on the empty field, a little dust drifting where the figures stood.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 13 — Carried Off · 1:20–1:27 · 7 s · Drawn (2D) · Image-to-video
+## 13 · 1:20–1:27 · Carried Off
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** David, almost invisible now, is pulled along by a charcoal wind full of glittering drawn coins and bright shop signs; the thin roots at his feet snap one by one as he goes.
+- **Scene:** The drawn alley's far end opening onto a dark charcoal-drawn city.
+- **Camera Movement:** Follows him a few steps, then lets him go, holding still as he shrinks away. Ends on: Wide on the charcoal city, David's faint shape disappearing into it.
+- **Lighting Setup:** Cold white sparkle of drawn coins and signs against charcoal dark; no warmth anywhere
+- **Tone and Mood:** Grief. The lost one goes further. Losing someone to the world.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: A thread snapping; wind rising.
+- **Avoid:** No neon or pink glitter, only cold white sparkle; no sinister figures dragging him. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. The drawn alley's far end opening onto a dark charcoal-drawn city. David, almost invisible now, is pulled along by a charcoal wind full of glittering drawn coins and bright shop signs; the thin roots at his feet snap one by one as he goes. The camera follows him a few steps, then lets him go, holding still as he shrinks away. The color stays warm gold, and any light grows slowly from nothing, never flashing. Medium 2D framing. The shot ends: wide on the charcoal city, David's faint shape disappearing into it.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 14 — The Pruning · 1:27–1:34 · 7 s · Drawn (2D) · Image-to-video
+## 14 · 1:27–1:34 · The Pruning
+
+- **Subject:** Yeshua as a tall figure outlined in gold light, cream tunic and striped mantle, no drawn face; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat
+- **Action:** Yeshua's hand of light trims the branch with a small knife; beside it, Tomas lets go of a fat envelope of shortcut money he was offered, and it falls away; where the cut was made, new green shoots bud at once.
+- **Scene:** The drawn vineyard again, a lit branch heavy with leaves but no fruit.
+- **Camera Movement:** Pushes in slowly on the cut, then eases down to the new shoots. Ends on: Close on the fresh green shoots budding from the cut branch.
+- **Lighting Setup:** Soft morning gold on the vineyard; a small bright spot where the cut is made, fresh green catching the light
+- **Tone and Mood:** A clean, hard mercy. Pruning hurts, and it is love.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: A clean snip; sap beading at the cut.
+- **Avoid:** No blood, no harsh cutting of people; the knife only touches the vine. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Yeshua is drawn as a tall figure outlined in living gold light, in a cream tunic and a striped mantle, his face a soft glow with no drawn features. He never sings or mouths words. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. The drawn vineyard again, a lit branch heavy with leaves but no fruit. Yeshua's hand of light trims the branch with a small knife; beside it, Tomas lets go of a fat envelope of shortcut money he was offered, and it falls away; where the cut was made, new green shoots bud at once. The camera pushes in slowly on the cut, then eases down to the new shoots. The color stays warm gold, and any light grows slowly from nothing, never flashing. Close 2D framing. The shot ends: close on the fresh green shoots budding from the cut branch.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 15 — Fruit That Runs · 1:34–1:41 · 7 s · Drawn (2D) · Image-to-video
+## 15 · 1:34–1:41 · Fruit That Runs
+
+- **Subject:** Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan
+- **Action:** Grape clusters ripen on the vine and become small drawn children, Ana among them, who leap down and run laughing into the street, color trailing behind them; the parchment starts to curl and rise into depth around them.
+- **Scene:** The lit vineyard spilling into the drawn street; the edges of the drawing beginning to shade and swell with depth.
+- **Camera Movement:** Rises slowly over the running children as the flat page begins to lift into space. Ends on: High on the children running, the drawn world beginning to rise in depth at the edges.
+- **Lighting Setup:** Late golden sun rising through the vineyard; warm rim light on the children, the page edges catching depth shadows
+- **Tone and Mood:** Gladness. The fruit is people. Life multiplying; a future.
+- **Visual Texture:** Drawn (2D). Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Sense: Children's feet on stone; paper rustling as it lifts.
+- **Avoid:** No grapes with faces or creepy fruit-children; the change from grape to child is a soft dissolve. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Hand-drawn 2D animation in fine ink line and gold-leaf watercolor on warm parchment, like an illuminated manuscript that has come alive; flat, with no real depth yet. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. The lit vineyard spilling into the drawn street; the edges of the drawing beginning to shade and swell with depth. Grape clusters ripen on the vine and become small drawn children, Ana among them, who leap down and run laughing into the street, color trailing behind them; the parchment starts to curl and rise into depth around them. The camera rises slowly over the running children as the flat page begins to lift into space. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide 2D framing. The shot ends: high on the children running, the drawn world beginning to rise in depth at the edges.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 16 — Depth Arrives · 1:41–1:47 · 6 s · Sculpted (3D) · Image-to-video
+## 16 · 1:41–1:47 · Depth Arrives
+
+- **Subject:** None
+- **Action:** The parchment city folds up like a pop-up book into painterly 3D: the apartment building rises, windows gain depth, the people swell from flat drawings into soft sculpted figures with shadow and weight.
+- **Scene:** The drawn street becoming sculpted 3D.
+- **Camera Movement:** Swoops low through the rising street as it builds around it, gaining real depth. Ends on: Medium-wide on the 3D street, fully dimensional.
+- **Lighting Setup:** Golden afternoon sun raking low, creating the first real shadows as the street rises into 3D
+- **Tone and Mood:** Rising strength. The world gets weight. The music swells; something serious is beginning.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Paper turning to wood and stone; the hum growing louder.
+- **Avoid:** Not a hard cut or wipe; the change is one continuous unfolding; no glossy plastic toy look. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. The drawn street becoming sculpted 3D. The parchment city folds up like a pop-up book into painterly 3D: the apartment building rises, windows gain depth, the people swell from flat drawings into soft sculpted figures with shadow and weight. The camera swoops low through the rising street as it builds around it, gaining real depth. The color stays warm gold, and any light grows slowly from nothing, never flashing. 24mm lens, deep focus. The shot ends: medium-wide on the 3D street, fully dimensional.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 17 — The Wilderness · 1:47–1:54 · 7 s · Sculpted (3D) · Image-to-video
+## 17 · 1:47–1:54 · The Wilderness
+
+- **Subject:** Yeshua as a sculpted figure of warm light, cream tunic and striped mantle, features soft and half-formed
+- **Action:** Yeshua stands alone; around him the world's offers rise as glittering mirages: stones turning to gleaming bread, a vast city of gold towers shimmering below a cliff; he turns away from each, and they crumble back into sand while his light holds steady.
+- **Scene:** A sculpted 3D desert at night under a huge moon, rocks and wind.
+- **Camera Movement:** Circles him slowly while moving in, keeping him in three-quarter profile. Ends on: Medium on Yeshua's figure of light, the crumbled mirages behind him.
+- **Lighting Setup:** Huge cool moon as backlight; Yeshua a steady warm glow; the mirages a cold glittering gold that dies out
+- **Tone and Mood:** Determination. He chooses before He asks us to. Resolve; the hard choice made first by Him.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Desert wind; sand hissing over rock.
+- **Avoid:** No devil or demonic figure shown; no flames; Yeshua never kneels here; his face stays soft in the light. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Yeshua is a tall sculpted figure made of warm light, in a cream tunic and a striped mantle, his features soft and only half-formed within the glow, never sharp. He never sings or mouths words. A sculpted 3D desert at night under a huge moon, rocks and wind. Yeshua stands alone; around him the world's offers rise as glittering mirages: stones turning to gleaming bread, a vast city of gold towers shimmering below a cliff; he turns away from each, and they crumble back into sand while his light holds steady. The camera circles him slowly while moving in, keeping him in three-quarter profile. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on Yeshua's figure of light, the crumbled mirages behind him.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 18 — The Phone Goes Dark · 1:54–2:01 · 7 s · Sculpted (3D) · Image-to-video
+## 18 · 1:54–2:01 · The Phone Goes Dark
+
+- **Subject:** Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds
+- **Action:** Eli mouths along to someone else's song for his followers, performing a smile that isn't his; tiny glowing Hebrew letters drift through his window and into his mind; he stops, lowers the phone, and switches off the ring light.
+- **Scene:** Eli's 3D bedroom at night, a ring light and his phone on a stand, a screen full of floating hearts and numbers.
+- **Camera Movement:** Pushes slowly in on his face as the cold ring light goes out and warm light rises in him. Ends on: Close on Eli's face in the dark room, warm light starting within him.
+- **Lighting Setup:** Cold ring-light and phone glow on his face that switch off; warm light then rising softly from within him
+- **Tone and Mood:** The hard choice, mirrored. Choosing the real over the performance.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: A notification chime cut short; quiet.
+- **Avoid:** Eli lip-syncs only a generic pop song with his mouth, never the lyrics of this song; no pink ring light; no brand logos. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Eli's 3D bedroom at night, a ring light and his phone on a stand, a screen full of floating hearts and numbers. Eli mouths along to someone else's song for his followers, performing a smile that isn't his; tiny glowing Hebrew letters drift through his window and into his mind; he stops, lowers the phone, and switches off the ring light. The camera pushes slowly in on his face as the cold ring light goes out and warm light rises in him. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: close on Eli's face in the dark room, warm light starting within him.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 19 — The Road to Jerusalem · 2:01–2:08 · 7 s · Sculpted (3D) · Image-to-video
+## 19 · 2:01–2:08 · The Road to Jerusalem
+
+- **Subject:** Yeshua as a sculpted figure of warm light, cream tunic and striped mantle, features soft and half-formed; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds
+- **Action:** Yeshua walks ahead into the wind, his mantle streaming; behind him, leaning into the same wind, walk Rosa, Tomas, Ana and Eli in their 3D forms, following.
+- **Scene:** A sculpted 3D road winding through hills toward a distant golden city, wind pulling at everything.
+- **Camera Movement:** Glides alongside, then rises ahead of them in a slow drone move. Ends on: High and wide on the small group on the road, the golden city on the horizon.
+- **Lighting Setup:** Strong low sun ahead of them through moving cloud; long shadows behind, warm rim light on everyone
+- **Tone and Mood:** Set face; shared resolve. We follow because He went first.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Wind roaring; footsteps steady on stone.
+- **Avoid:** No marching-army feel; they walk as a family; Yeshua stays small and seen from a distance. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Yeshua is a tall sculpted figure made of warm light, in a cream tunic and a striped mantle, his features soft and only half-formed within the glow, never sharp. He never sings or mouths words. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. A sculpted 3D road winding through hills toward a distant golden city, wind pulling at everything. Yeshua walks ahead into the wind, his mantle streaming; behind him, leaning into the same wind, walk Rosa, Tomas, Ana and Eli in their 3D forms, following. The camera glides alongside, then rises ahead of them in a slow drone move. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide lens, deep focus. The shot ends: high and wide on the small group on the road, the golden city on the horizon.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 20 — The Glittering City · 2:08–2:14 · 6 s · Sculpted (3D) · Image-to-video
+## 20 · 2:08–2:14 · The Glittering City
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** David walks into it wide-eyed, reaching for a glittering prize that drifts away whenever he gets close.
+- **Scene:** A sculpted 3D city of glittering hollow treasure at night: towers of gold-white glass, screens, chandeliers, all cold and dazzling.
+- **Camera Movement:** Follows behind David, then circles to his face as he reaches. Ends on: Medium close on David's reaching hand and hungry face in the cold glitter.
+- **Lighting Setup:** Cold gold-white glare from towers, screens and chandeliers; hard, dazzling, no warmth on David's face
+- **Tone and Mood:** Temptation; the pull of more. The ache of wanting what never satisfies.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Glass chimes; a crowd's empty applause.
+- **Avoid:** Cold white glare only, never neon pink or purple; no casino or alcohol brands; no sexual imagery. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. A sculpted 3D city of glittering hollow treasure at night: towers of gold-white glass, screens, chandeliers, all cold and dazzling. David walks into it wide-eyed, reaching for a glittering prize that drifts away whenever he gets close. The camera follows behind David, then circles to his face as he reaches. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium close on David's reaching hand and hungry face in the cold glitter.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 21 — Hollow · 2:14–2:21 · 7 s · Sculpted (3D) · Image-to-video
+## 21 · 2:14–2:21 · Hollow
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** The glittering towers crack and fall apart into dry grey shards like dead leaves; David sits alone on the broken ground, his sculpted form turned to cold grey stone, his head in his hands.
+- **Scene:** The same city, its glitter now shattered.
+- **Camera Movement:** Pulls slowly back from him as the shards fall around him. Ends on: Wide on David alone and grey amid the fallen shards.
+- **Lighting Setup:** Flat grey light as the glitter dies; dust in the air, no sun, colorless
+- **Tone and Mood:** Brokenness; the bottom of the lie. Emptiness after the world has taken everything.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Glass falling like dry rain; silence after.
+- **Avoid:** No drug paraphernalia or bottles; no blood; he is broken, not injured. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. The same city, its glitter now shattered. The glittering towers crack and fall apart into dry grey shards like dead leaves; David sits alone on the broken ground, his sculpted form turned to cold grey stone, his head in his hands. The camera pulls slowly back from him as the shards fall around him. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: wide on David alone and grey amid the fallen shards.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 22 — He Waits Beside Him · 2:21–2:27 · 6 s · Sculpted (3D) · Image-to-video
+## 22 · 2:21–2:27 · He Waits Beside Him
+
+- **Subject:** Yeshua as a sculpted figure of warm light, cream tunic and striped mantle, features soft and half-formed; David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** Unseen by David, Yeshua's figure of light stands beside him and spreads his mantle over him like a shelter; warm light falls across David's grey stone shoulders, though he does not yet look up.
+- **Scene:** The broken grey ground where David sits.
+- **Camera Movement:** Pushes in slowly as the warm light spreads. Ends on: Medium close on David under the glowing mantle, still looking down.
+- **Lighting Setup:** The same grey scene with one warm pool of light falling from the mantle onto David's shoulders
+- **Tone and Mood:** Mercy that waits. Love that has not given up on him.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: Rain stopping; warmth on the back of the neck.
+- **Avoid:** David does not change yet; no instant fix; Yeshua's face stays soft and in profile. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Yeshua is a tall sculpted figure made of warm light, in a cream tunic and a striped mantle, his features soft and only half-formed within the glow, never sharp. He never sings or mouths words. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. The broken grey ground where David sits. Unseen by David, Yeshua's figure of light stands beside him and spreads his mantle over him like a shelter; warm light falls across David's grey stone shoulders, though he does not yet look up. The camera pushes in slowly as the warm light spreads. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium close on David under the glowing mantle, still looking down.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 23 — Rain of the Word · 2:27–2:34 · 7 s · Sculpted (3D) · Image-to-video
+## 23 · 2:27–2:34 · Rain of the Word
+
+- **Subject:** Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat
+- **Action:** A soft rain of tiny glowing Hebrew letters begins to fall; where it lands, the dust darkens, a dry vine on the fence turns green, and Tomas straightens, the weight suddenly lighter, light glowing in his chest.
+- **Scene:** A sculpted 3D building site in a dry, dusty heat; Tomas carrying a heavy steel beam.
+- **Camera Movement:** Tilts up from the greening vine to Tomas's face lifted into the rain. Ends on: Medium on Tomas standing tall in the soft golden rain.
+- **Lighting Setup:** Hot hazy midday light, then soft gold as the rain of letters falls; the vine greening in the light
+- **Tone and Mood:** Relief. Refreshment after drought. Being refreshed from within.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: First drops on hot dust; a long breath out.
+- **Avoid:** Letters fall softly like rain, never as readable text; no flash; no thunderstorm. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. A sculpted 3D building site in a dry, dusty heat; Tomas carrying a heavy steel beam. A soft rain of tiny glowing Hebrew letters begins to fall; where it lands, the dust darkens, a dry vine on the fence turns green, and Tomas straightens, the weight suddenly lighter, light glowing in his chest. The camera tilts up from the greening vine to Tomas's face lifted into the rain. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on Tomas standing tall in the soft golden rain.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 24 — The House Carries Each Other · 2:34–2:42 · 8 s · Sculpted (3D) · Image-to-video
+## 24 · 2:34–2:42 · The House Carries Each Other
+
+- **Subject:** Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** In one room Rosa scrubs a floor after her shift; on the stairs Eli carries Samuel's groceries up five flights; in the kitchen Tomas cooks for Ana; through every wall a vine of light pulses brighter with each act.
+- **Scene:** The 3D apartment building opened like a dollhouse at night.
+- **Camera Movement:** Flows in one unbroken move up through the building, room to room. Ends on: Wide on the whole building, the vine of light glowing through it.
+- **Lighting Setup:** Night: a warm practical lamp in each room, the vine of light in the walls pulsing as a moving source
+- **Tone and Mood:** Persevering love; the hard chores done for others. Unseen faithfulness is the vine bearing fruit.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: A scrubbing brush, footsteps on stairs, a pan sizzling, all one rhythm.
+- **Avoid:** No split-screen or grid; one continuous move; nobody glows like a superhero. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. The 3D apartment building opened like a dollhouse at night. In one room Rosa scrubs a floor after her shift; on the stairs Eli carries Samuel's groceries up five flights; in the kitchen Tomas cooks for Ana; through every wall a vine of light pulses brighter with each act. The camera flows in one unbroken move up through the building, room to room. The color stays warm gold, and any light grows slowly from nothing, never flashing. 24mm lens, deep focus. The shot ends: wide on the whole building, the vine of light glowing through it.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 25 — The Inner Voice · 2:42–2:50 · 8 s · Sculpted (3D) · Image-to-video
+## 25 · 2:42–2:50 · The Inner Voice
+
+- **Subject:** Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves
+- **Action:** Rosa pauses, closes her eyes, and a quiet constellation of glowing Hebrew letters turns inside her mind; she opens her eyes, nods as if she heard a voice, takes a bowl of soup and goes out the door toward the stairs to Samuel's.
+- **Scene:** Rosa's small 3D kitchen at night, a mop leaning on the wall.
+- **Camera Movement:** Pushes in slowly on her closed eyes, then follows her to the door. Ends on: Medium on Rosa at the door with the soup, looking up toward the stairs.
+- **Lighting Setup:** Single warm kitchen bulb, dim; a small gold constellation glowing inside her mind on closed eyes
+- **Tone and Mood:** Listening. The Spirit speaks. Being led from within, then obeying.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: A clock ticking; a whisper you can't quite hear.
+- **Avoid:** No literal voice bubble or text; not a vision of angels; the prompting is quiet and inward. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Rosa's small 3D kitchen at night, a mop leaning on the wall. Rosa pauses, closes her eyes, and a quiet constellation of glowing Hebrew letters turns inside her mind; she opens her eyes, nods as if she heard a voice, takes a bowl of soup and goes out the door toward the stairs to Samuel's. The camera pushes in slowly on her closed eyes, then follows her to the door. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on Rosa at the door with the soup, looking up toward the stairs.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 26 — The Word Becomes Flesh · 2:50–2:58 · 8 s · Sculpted (3D) · Image-to-video
+## 26 · 2:50–2:58 · The Word Becomes Flesh
+
+- **Subject:** Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves
+- **Action:** As she climbs, the painterly surface of her face deepens into real skin: pores, fine lines, a strand of real hair, real breath; the stairway around her turns from painted to photoreal.
+- **Scene:** Close on Rosa's sculpted 3D face on the dim stairway.
+- **Camera Movement:** Pushes in very slowly on her face as it becomes flesh. Ends on: Close on Rosa's real, living face in warm stairway light.
+- **Lighting Setup:** Warm stairwell bulb from above; light deepening on real skin as texture appears
+- **Tone and Mood:** Holy awe. It becomes real. The Word became flesh and dwelt among us.
+- **Visual Texture:** Sculpted (3D). Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Sense: A real breath; the sound of a real heartbeat.
+- **Avoid:** No morphing distortion or melting; the change is smooth and gentle; no plastic skin at the end. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Painterly stylized 3D animation: soft sculpted forms with warm hand-painted textures and real depth and space, like a living storybook in three dimensions, not yet real flesh. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Close on Rosa's sculpted 3D face on the dim stairway. As she climbs, the painterly surface of her face deepens into real skin: pores, fine lines, a strand of real hair, real breath; the stairway around her turns from painted to photoreal. The camera pushes in very slowly on her face as it becomes flesh. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: close on Rosa's real, living face in warm stairway light.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 27 — Bread at the Table · 2:58–3:06 · 8 s · Flesh (real) · Image-to-video
+## 27 · 2:58–3:06 · Bread at the Table
+
+- **Subject:** Yeshua (same as "Jesus Savior Redeemer Friend": cream tunic, striped tasseled mantle, dark beard), seen in profile or three-quarter; a few disciples
+- **Action:** Yeshua breaks a round loaf and hands the pieces around; the disciples laugh softly together; for the first time he is fully real and near.
+- **Scene:** A small lamplit stone room at evening, a low wooden table, a few disciples.
+- **Camera Movement:** Pushes slowly in on his hands breaking the bread, settling on his three-quarter profile. Ends on: Close on his hands and smiling profile over the broken bread.
+- **Lighting Setup:** Oil-lamp key light low and warm on hands and bread, soft fill from the fire, deep warm shadows
+- **Tone and Mood:** Intimacy. He is with us. Being at home with Him.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Warm bread torn open; lamplight; quiet laughter.
+- **Avoid:** He never sings or mouths words; not a Last Supper painting pose; fine grain allowed here only. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. He never sings or mouths words. A small lamplit stone room at evening, a low wooden table, a few disciples. Yeshua breaks a round loaf and hands the pieces around; the disciples laugh softly together; for the first time he is fully real and near. The camera pushes slowly in on his hands breaking the bread, settling on his three-quarter profile. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: close on his hands and smiling profile over the broken bread.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 28 — Words Take Root · 3:06–3:13 · 7 s · Flesh (real) · Image-to-video
+## 28 · 3:06–3:13 · Words Take Root
+
+- **Subject:** Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** Rosa sits by Samuel's bed and reads to him from a worn Hebrew Bible; glowing letters lift gently from the page and drift into his mind; his tired face softens and he closes his eyes in peace.
+- **Scene:** Samuel's small real apartment at night, a lamp, the soup on a tray.
+- **Camera Movement:** Drifts slowly from the open page up to Samuel's face, following the letters. Ends on: Close on Samuel's peaceful face, the light settled within him, Rosa's hand on the page.
+- **Lighting Setup:** One bedside lamp, warm and low; tiny gold letters rising off the page as small moving lights
+- **Tone and Mood:** Comfort; the lonely are visited. His Word bringing life into an old heart.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Pages turning; a soft reading voice; the lamp's warmth.
+- **Avoid:** No caption text; the letters are tiny drifting light; Samuel is frail but not near death or in pain. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. Samuel's small real apartment at night, a lamp, the soup on a tray. Rosa sits by Samuel's bed and reads to him from a worn Hebrew Bible; glowing letters lift gently from the page and drift into his mind; his tired face softens and he closes his eyes in peace. The camera drifts slowly from the open page up to Samuel's face, following the letters. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens. The shot ends: close on Samuel's peaceful face, the light settled within him, Rosa's hand on the page.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 29 — Rising at the Window · 3:13–3:21 · 8 s · Flesh (real) · Image-to-video
+## 29 · 3:13–3:21 · Rising at the Window
+
+- **Subject:** Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** Eli and Rosa help Samuel up from his chair to the window; he stands, leaning on his cane, sunlight washing over him; all three glow softly from within and laugh.
+- **Scene:** Samuel's real apartment at sunrise, the window flooded with gold.
+- **Camera Movement:** Rises with Samuel as he stands, easing up toward the window light. Ends on: Medium on the three of them at the sunlit window.
+- **Lighting Setup:** Strong golden sunrise through the window as key light, soft bounce off the walls onto their faces
+- **Tone and Mood:** Rising joy. In His presence, you will rise.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: A window opening; morning birds; a cane tapping the floor.
+- **Avoid:** Samuel is not healed yet (that comes at the end); just lifted in spirit; no flare or flash. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. Samuel's real apartment at sunrise, the window flooded with gold. Eli and Rosa help Samuel up from his chair to the window; he stands, leaning on his cane, sunlight washing over him; all three glow softly from within and laugh. The camera rises with Samuel as he stands, easing up toward the window light. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on the three of them at the sunlit window.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 30 — Tasting the Fruit · 3:21–3:27 · 6 s · Flesh (real) · Image-to-video
+## 30 · 3:21–3:27 · Tasting the Fruit
+
+- **Subject:** Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; families of many nations
+- **Action:** Tomas lifts a full basket of grapes with Rosa; Ana bites a grape and grins with purple lips; families of many nations harvest around them, laughing.
+- **Scene:** A real community vineyard on the edge of the city in golden evening.
+- **Camera Movement:** Pulls back from Ana's grin to the whole field of families. Ends on: Medium-wide on the family with the full basket among the harvesters.
+- **Lighting Setup:** Low golden evening sun backlighting the vine leaves and grapes, warm rim on the family
+- **Tone and Mood:** Delight in the fruit of labor. Hard work tastes sweet.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Grapes bursting; laughter across the rows.
+- **Avoid:** No wine-drinking focus or bottles; joyful, not glossy-advertisement. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. A real community vineyard on the edge of the city in golden evening. Tomas lifts a full basket of grapes with Rosa; Ana bites a grape and grins with purple lips; families of many nations harvest around them, laughing. The camera pulls back from Ana's grin to the whole field of families. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium-wide on the family with the full basket among the harvesters.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 31 — The Long Table · 3:27–3:33 · 6 s · Flesh (real) · Image-to-video
+## 31 · 3:27–3:33 · The Long Table
+
+- **Subject:** Yeshua (same as "Jesus Savior Redeemer Friend": cream tunic, striped tasseled mantle, dark beard), seen in profile or three-quarter; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane; neighbors of every nation
+- **Action:** Neighbors of every nation share food: Ana, Rosa, Tomas, Eli, Samuel among them; at the head of the table Yeshua lifts a cup and smiles as they pass dishes.
+- **Scene:** A real street feast outside the apartment building, a long table under strings of warm lights.
+- **Camera Movement:** Drifts down the length of the table, right to left, to Yeshua. Ends on: Medium on Yeshua at the head of the table, the feast stretching away.
+- **Lighting Setup:** Warm string lights overhead and late dusk sky; candles on the table; Yeshua lit warmly at the head
+- **Tone and Mood:** Celebration; one family of many. The vine's fruit gathered together.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Plates clinking; music; many languages laughing.
+- **Avoid:** No pink or neon string lights; Yeshua stays in three-quarter profile; nothing staged like a commercial. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. He never sings or mouths words. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. A real street feast outside the apartment building, a long table under strings of warm lights. Neighbors of every nation share food: Ana, Rosa, Tomas, Eli, Samuel among them; at the head of the table Yeshua lifts a cup and smiles as they pass dishes. The camera drifts down the length of the table, right to left, to Yeshua. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on Yeshua at the head of the table, the feast stretching away.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 32 — Hand in Hand · 3:33–3:39 · 6 s · Flesh (real) · Image-to-video
+## 32 · 3:33–3:39 · Hand in Hand
+
+- **Subject:** Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane; everyone at the long table
+- **Action:** Everyone at the table joins hands to give thanks; a thread of soft gold light runs from hand to hand down the whole table like a vine.
+- **Scene:** The same long table at dusk.
+- **Camera Movement:** Glides along the joined hands in one unbroken move, slowed down. Ends on: Wide on the whole table joined hand to hand, glowing softly.
+- **Lighting Setup:** Dusk blue sky with warm candle and string-light pools; a soft gold thread of light along the hands
+- **Tone and Mood:** Union; one body. Many branches, one vine.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: A hush falling over a crowd; hands warm in hands.
+- **Avoid:** The light is a gentle glow, never a laser line or electric spark. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. The same long table at dusk. Everyone at the table joins hands to give thanks; a thread of soft gold light runs from hand to hand down the whole table like a vine. The camera glides along the joined hands in one unbroken move, slowed down. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: wide on the whole table joined hand to hand, glowing softly.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 33 — Empty Hands · 3:39–3:46 · 7 s · Flesh (real) · Image-to-video
+## 33 · 3:39–3:46 · Empty Hands
+
+- **Subject:** Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds
+- **Action:** Eli sets his phone face down on the ledge, opens his empty hands, and lifts his face to the sunrise; light gathers in his palms and grows within him.
+- **Scene:** A real rooftop at dawn above the city.
+- **Camera Movement:** Pushes in slowly from his open hands to his face. Ends on: Close on Eli's glowing open hands, his peaceful face beyond.
+- **Lighting Setup:** Clean golden sunrise, low and frontal from the side; light gathering in his palms
+- **Tone and Mood:** Surrender. Letting go of the performance for something real.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: City waking below; wind on a rooftop.
+- **Avoid:** He does not throw or smash the phone; no lens flare burst. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. A real rooftop at dawn above the city. Eli sets his phone face down on the ledge, opens his empty hands, and lifts his face to the sunrise; light gathers in his palms and grows within him. The camera pushes in slowly from his open hands to his face. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: close on Eli's glowing open hands, his peaceful face beyond.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 34 — Gethsemane · 3:46–3:53 · 7 s · Flesh (real) · Image-to-video
+## 34 · 3:46–3:53 · Gethsemane
+
+- **Subject:** Yeshua (same as "Jesus Savior Redeemer Friend": cream tunic, striped tasseled mantle, dark beard), seen in profile or three-quarter; disciples asleep in the shadows
+- **Action:** Yeshua kneels in prayer beside the rock, his mantle down around his shoulders, hands clasped, head bowed, then lifted toward heaven; his disciples sleep in the shadows.
+- **Scene:** The olive garden of Gethsemane at night, silver trees, a large rock.
+- **Camera Movement:** Pushes slowly in through the olive branches from the side. Ends on: Medium close from the side, Yeshua kneeling, eyes lifted.
+- **Lighting Setup:** Cool silver moonlight through olive leaves; a soft warm light on Yeshua only
+- **Tone and Mood:** Anguish and surrender. Not my will but Yours.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Night crickets; olive leaves in a faint breeze; his breath.
+- **Avoid:** He kneels only because he prays; no sweat of blood; no angel figure; face never head-on. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. He never sings or mouths words. The olive garden of Gethsemane at night, silver trees, a large rock. Yeshua kneels in prayer beside the rock, his mantle down around his shoulders, hands clasped, head bowed, then lifted toward heaven; his disciples sleep in the shadows. The camera pushes slowly in through the olive branches from the side. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: medium close from the side, Yeshua kneeling, eyes lifted.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 35 — The Bottom · 3:53–3:59 · 6 s · Flesh (real) · Image-to-video
+## 35 · 3:53–3:59 · The Bottom
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** David, alone and exhausted, slides down the wall to the floor; a warm light glows outside the rain-streaked window, and for the first time he lifts his head toward it.
+- **Scene:** A bare, cold real room at night, a mattress on the floor, rain on the window.
+- **Camera Movement:** Pulls slowly back from his face to show the empty room and the warm window. Ends on: Wide on David on the floor, his face turned toward the warm window.
+- **Lighting Setup:** Cold blue night through rainy glass; one warm golden glow outside the window falling across his face
+- **Tone and Mood:** Despair, and a crack of hope. The end of himself, and the first turning.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Rain on glass; a single shaking breath.
+- **Avoid:** No drugs, bottles or needles shown; no self-harm; dark but not graphic. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. A bare, cold real room at night, a mattress on the floor, rain on the window. David, alone and exhausted, slides down the wall to the floor; a warm light glows outside the rain-streaked window, and for the first time he lifts his head toward it. The camera pulls slowly back from his face to show the empty room and the warm window. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: wide on David on the floor, his face turned toward the warm window.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 36 — Never Alone · 3:59–4:06 · 7 s · Flesh (real) · Image-to-video
+## 36 · 3:59–4:06 · Never Alone
+
+- **Subject:** Yeshua (same as "Jesus Savior Redeemer Friend": cream tunic, striped tasseled mantle, dark beard), seen in profile or three-quarter; David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket
+- **Action:** The light enters the room; Yeshua sits on the floor beside David and lays a hand on his shoulder; David breaks down weeping into the mantle as light begins from nothing inside him.
+- **Scene:** The same bare room, now warmed.
+- **Camera Movement:** Pushes slowly in on the two of them. Ends on: Close on David's face against the mantle, Yeshua's hand on his shoulder.
+- **Lighting Setup:** The warm window light now inside the room, spreading around them like lamplight
+- **Tone and Mood:** Being found. He was never alone, not for one moment.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Weeping that loosens; a hand's warmth through a jacket.
+- **Avoid:** Yeshua sits, he does not kneel; face only in profile; no glowing halo. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. He never sings or mouths words. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. The same bare room, now warmed. The light enters the room; Yeshua sits on the floor beside David and lays a hand on his shoulder; David breaks down weeping into the mantle as light begins from nothing inside him. The camera pushes slowly in on the two of them. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens, shallow depth of field. The shot ends: close on David's face against the mantle, Yeshua's hand on his shoulder.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 37 — Carrying the Cross · 4:06–4:12 · 6 s · Flesh (real) · Image-to-video
+## 37 · 4:06–4:12 · Carrying the Cross
+
+- **Subject:** Yeshua (same as "Jesus Savior Redeemer Friend": cream tunic, striped tasseled mantle, dark beard), seen in profile or three-quarter
+- **Action:** Yeshua carries a heavy rough crossbeam on his shoulder, steps slow and steady, face tired but resolved.
+- **Scene:** A narrow stone street in Jerusalem at midday, crowds along the walls.
+- **Camera Movement:** Tracks beside him, right to left, from the side. Ends on: Medium close in profile, the beam on his shoulder, eyes ahead.
+- **Lighting Setup:** Harsh dusty midday sun, high and hard, warmed toward gold; no stylized drama
+- **Tone and Mood:** Sacrificial love; quiet strength. Love that carries what is not its own.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Wood scraping stone; a crowd's murmur; his breathing.
+- **Avoid:** No blood, wounds or whip marks; no crown-of-thorns close-up; face in profile only. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. He never sings or mouths words. A narrow stone street in Jerusalem at midday, crowds along the walls. Yeshua carries a heavy rough crossbeam on his shoulder, steps slow and steady, face tired but resolved. The camera tracks beside him, right to left, from the side. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium close in profile, the beam on his shoulder, eyes ahead.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 38 — Every Burden Flows to Him · 4:12–4:18 · 6 s · Flesh (real) · Image-to-video
+## 38 · 4:12–4:18 · Every Burden Flows to Him
+
+- **Subject:** Rosa, Tomas, Eli, Samuel and David, and the crossbeam passing through the crowd
+- **Action:** From Rosa's tired shoulders, Tomas's load, Eli's empty performance, Samuel's sickness and David's shame, dark threads like ash lift away and drift toward the crossbeam passing through the crowd; each person straightens, lighter.
+- **Scene:** Intercut in one continuous move: the apartment building and the Jerusalem street become one space.
+- **Camera Movement:** Flows from one person to the next, following the drifting threads toward the beam. Ends on: Medium on the crossbeam passing, the drifting threads sinking into the wood.
+- **Lighting Setup:** Dusty warm daylight; the dark ash-threads catching light as they drift toward the beam
+- **Tone and Mood:** Release; burdens lifted. He takes what we could not carry.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: A deep exhale from many people at once.
+- **Avoid:** No black smoke horror; threads drift gently like ash in warm air; no blood. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. Intercut in one continuous move: the apartment building and the Jerusalem street become one space. From Rosa's tired shoulders, Tomas's load, Eli's empty performance, Samuel's sickness and David's shame, dark threads like ash lift away and drift toward the crossbeam passing through the crowd; each person straightens, lighter. The camera flows from one person to the next, following the drifting threads toward the beam. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on the crossbeam passing, the drifting threads sinking into the wood.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 39 — The Cross on the Hill · 4:18–4:24 · 6 s · Flesh (real) · Text-to-video
+## 39 · 4:18–4:24 · The Cross on the Hill
+
+- **Subject:** A wooden cross on a hill with a small grieving group; Yeshua small and distant on it
+- **Action:** A single wooden cross stands with a small grieving group at its foot; golden light begins from nothing behind the clouds and breaks through in slow rays.
+- **Scene:** A rocky hill outside Jerusalem under a heavy, darkened sky.
+- **Camera Movement:** Rises slowly in a drone move. Ends on: High and wide, the cross small on the hill, rays breaking through the clouds.
+- **Lighting Setup:** Heavy dark sky; gold rays breaking slowly through cloud behind the cross as the only bright source
+- **Tone and Mood:** Love poured out. Everything given, nothing held back.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Wind on the hill; then stillness.
+- **Avoid:** The figure on the cross stays small and distant; no blood, no close-up of nails. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. Seen from a distance, he stays small in the frame and is never turned squarely toward the camera. He never sings or mouths words. A rocky hill outside Jerusalem under a heavy, darkened sky. A single wooden cross stands with a small grieving group at its foot; golden light begins from nothing behind the clouds and breaks through in slow rays. The camera rises slowly in a drone move. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide lens, deep focus. The shot ends: high and wide, the cross small on the hill, rays breaking through the clouds.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 40 — Grateful Tears · 4:24–4:30 · 6 s · Flesh (real) · Image-to-video
+## 40 · 4:24–4:30 · Grateful Tears
+
+- **Subject:** Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** Rosa, Tomas, Ana, Eli and Samuel look up at the warm sky with tears running down their faces, smiling through them, hands joined.
+- **Scene:** The apartment rooftop at dusk, the whole household together.
+- **Camera Movement:** Drifts slowly across their faces, right to left. Ends on: Close on the joined hands and tear-streaked smiling faces.
+- **Lighting Setup:** Warm dusk afterglow on their faces; tears catching the light
+- **Tone and Mood:** Gratitude beyond words. Thank You.
+- **Visual Texture:** Flesh (real). Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Sense: Quiet crying that turns into a laugh.
+- **Avoid:** Faces are joyful through tears, never miserable; no plastic skin. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal live-action cinematography: real people with natural, textured skin and pores, real breath and real light. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. The apartment rooftop at dusk, the whole household together. Rosa, Tomas, Ana, Eli and Samuel look up at the warm sky with tears running down their faces, smiling through them, hands joined. The camera drifts slowly across their faces, right to left. The color stays warm gold, and any light grows slowly from nothing, never flashing. 85mm lens. The shot ends: close on the joined hands and tear-streaked smiling faces.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 41 — The Tomb of Light · 4:30–4:36 · 6 s · Glory · Text-to-video
+## 41 · 4:30–4:36 · The Tomb of Light
+
+- **Subject:** The empty rock tomb and a swarm of glowing Hebrew letters rising from it
+- **Action:** Warm light pours out of the empty tomb, and a swarm of glowing Hebrew letters rises from inside like stars set free, streaming out over the city.
+- **Scene:** A garden at dawn, a great round stone rolled away from a rock tomb.
+- **Camera Movement:** Pushes in toward the open tomb from ground level, then tilts up with the rising letters. Ends on: Medium-low on the tomb doorway, letters of light streaming upward.
+- **Lighting Setup:** Dawn garden light; intense warm light pouring out of the tomb doorway as the main source
+- **Tone and Mood:** Victory. Life wins. He is risen; the Word lives.
+- **Visual Texture:** Glory. Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. Sense: Morning birds; a rush like wind.
+- **Avoid:** No figure of Jesus inside; no flash; the letters rise slowly. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. A garden at dawn, a great round stone rolled away from a rock tomb. Warm light pours out of the empty tomb, and a swarm of glowing Hebrew letters rises from inside like stars set free, streaming out over the city. The camera pushes in toward the open tomb from ground level, then tilts up with the rising letters. The color stays warm gold, and any light grows slowly from nothing, never flashing. 35mm lens. The shot ends: medium-low on the tomb doorway, letters of light streaming upward.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 42 — The Son Comes Home · 4:36–4:43 · 7 s · Glory · Image-to-video
+## 42 · 4:36–4:43 · The Son Comes Home
+
+- **Subject:** David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane
+- **Action:** David walks up the street toward home with his head down; Samuel, healed, drops his cane and runs to him, robe flying, and throws his arms around his son; both begin to shine from within.
+- **Scene:** The street in front of the apartment building at sunrise.
+- **Camera Movement:** Tracks with the running father, right to left, and settles on the embrace. Ends on: Medium on father and son in a tight, glowing embrace.
+- **Lighting Setup:** Low gold sunrise down the street, behind David; both begin to glow from within
+- **Tone and Mood:** Homecoming; the dead come alive. The son who was lost is found.
+- **Visual Texture:** Glory. Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. Sense: A cane clattering on pavement; a father's cry; sobbing laughter.
+- **Avoid:** Not slow-motion cliché throughout; no lens flare; faces joyful. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. The street in front of the apartment building at sunrise. David walks up the street toward home with his head down; Samuel, healed, drops his cane and runs to him, robe flying, and throws his arms around his son; both begin to shine from within. The camera tracks with the running father, right to left, and settles on the embrace. The color stays warm gold, and any light grows slowly from nothing, never flashing. 50mm lens. The shot ends: medium on father and son in a tight, glowing embrace.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 43 — The Bride Gathered · 4:43–4:50 · 7 s · Glory · Image-to-video
+## 43 · 4:43–4:50 · The Bride Gathered
+
+- **Subject:** Yeshua shining with a gentle golden glory, small in the frame; Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan; Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves; Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat; Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds; Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane; David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket; a countless crowd of every nation and age
+- **Action:** Ana, Rosa, Tomas, Eli, Samuel and David stand among a countless crowd, all transfigured into light, turned toward Yeshua shining at the center; their many lights flow together like one long bridal veil across the hill.
+- **Scene:** A vast vineyard hillside at sunrise filled with people of every nation and every age.
+- **Camera Movement:** Pulls back and rises in a slow drone move from their faces to the whole gathering. Ends on: High and wide, the shining crowd one whole around Yeshua.
+- **Lighting Setup:** Wide golden sunrise over the hillside; every person a soft source of their own light; Yeshua brightest, gentle
+- **Tone and Mood:** Glory; all made one. The Bride, gathered to Him.
+- **Visual Texture:** Glory. Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. Sense: A great hush, then joy like many waters.
+- **Avoid:** Not a stadium concert crowd; no raised-hands stock-photo look; Yeshua small and radiant, never singing. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Image-to-video (Start from a still: locks faces, characters and the look so nothing drifts)
+
+**Prompt:**
 
 > Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. He shines with a gentle golden glory from within, steady and calm, never a flash. Seen from a distance, he stays small in the frame and is never turned squarely toward the camera. He never sings or mouths words. Ana, a girl of eight with dark curly hair in two braids and a yellow cardigan. Rosa, a Latina woman in her mid-forties with dark hair tied back, tired kind eyes, a navy cleaning-company uniform and yellow rubber gloves. Tomas, a broad-shouldered construction worker in his forties with a short greying beard, an orange safety vest and a scuffed white hard hat. Eli, a Black teenage boy of seventeen with short twists, a grey hooded sweatshirt and white earbuds. Samuel, a frail Jewish man in his eighties with a white beard, a knitted cardigan and a wooden cane. David, a gaunt man in his thirties with unkempt dark hair, stubble and a worn leather jacket. A vast vineyard hillside at sunrise filled with people of every nation and every age. Ana, Rosa, Tomas, Eli, Samuel and David stand among a countless crowd, all transfigured into light, turned toward Yeshua shining at the center; their many lights flow together like one long bridal veil across the hill. The camera pulls back and rises in a slow drone move from their faces to the whole gathering. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide lens, deep focus. The shot ends: high and wide, the shining crowd one whole around Yeshua.
 >
 > AVOID: English words, captions, titles or lyric text (Hebrew letters appear only as drifting light, never as a caption), black bars, white edge lines, collage or grid, vignette, color grade, pink tint or neon light (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood, halos or light flashes; Yeshua never sings or mouths words; Yeshua's face never shown full and head-on; he kneels only when praying.
 
-## 44 — The Vine of Light · 4:50–4:56 · 6 s · Glory · Text-to-video
+## 44 · 4:50–4:56 · The Vine of Light
+
+- **Subject:** Countless small lights of people joined into one vine of light across the earth
+- **Action:** Countless small golden lights of people across cities, villages and fields join by glowing threads of Hebrew letters into one great living vine of light that branches across the whole earth, the same vine from the first frame, now made of people.
+- **Scene:** High above the earth at dawn.
+- **Camera Movement:** Rises slowly higher in a smooth, floating move. Ends on: Very high and wide, the vine of light spread across the earth, fading to warm gold-white.
+- **Lighting Setup:** Dawn over the land; the vine of people-light glowing gold, fading toward warm gold-white
+- **Tone and Mood:** Eternity; peace. We are His and He is ours; the circle is complete.
+- **Visual Texture:** Glory. Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. Sense: The low hum from the first frame returning, warm and full.
+- **Avoid:** No planet-from-space cliché; no text; fade softly toward warm golden white for the credit. Standing: no English words or captions; no pink or neon; no vignette or color grade; no plastic skin; no blood; no jarring cuts; light never flashes; Yeshua never sings, never full face-on, kneels only in prayer.
+- **LTX Mode:** Text-to-video (Text only: no faces to keep matching, and the loose invented look helps the dream)
+
+**Prompt:**
 
 > Photoreal people transfigured into light: their bodies glowing from within, the edges of their forms dissolving into drifting points of golden light and tiny Hebrew letters. High above the earth at dawn. Countless small golden lights of people across cities, villages and fields join by glowing threads of Hebrew letters into one great living vine of light that branches across the whole earth, the same vine from the first frame, now made of people. The camera rises slowly higher in a smooth, floating move. The color stays warm gold, and any light grows slowly from nothing, never flashing. Wide lens, deep focus. The shot ends: very high and wide, the vine of light spread across the earth, fading to warm gold-white.
 >
