@@ -1,4 +1,4 @@
-# Jesus Savior Redeemer Friend — LTX-style clip prompts (all 24 scenes)
+# Jesus Savior Redeemer Friend — LTX-style clip prompts (all 26 scenes)
 
 Album: *God Is About to Show Up* · Divine Ensemble · Production: Dazadi Music
 
@@ -324,6 +324,27 @@ Copy these sentences word for word; never reword them, so his look stays the sam
 >
 > AVOID: printed words or titles, black bars, white edge lines, collage or grid, vignette, color grade, pink tint (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood; Yeshua's face never shown full and head-on; he kneels only when praying.
 
+## Scene 25 — Hillside Teaching · "You declare this is the season / Of Your mercy of Your light"
+
+**25A · among the listeners · 8 s**
+> Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. His mantle is drawn up over his head, softly shadowing his face beneath the cloth. He stands on a flowered Galilean hillside above the sea at sunset, speaking to the people seated on the rocks and grass around him, his open hands lifting as he declares the time of the Lord's favor; the listeners lean forward, a mother hushing her child, an old man nodding slowly. The camera moves at seated height between the listeners' shoulders, gliding slowly closer to him. The camera stays close and beside him, in profile or three-quarter view and never directly in front of him, resting on the line of his chin and beard, his mouth, and his dark brown eyes as they catch the light. The low sun sits behind him over the water, rimming his mantle and beard in warm gold, wildflowers glowing in the foreground. 50mm lens, shallow depth of field. The shot ends medium close in three-quarter profile, his open hands and bearded jaw against the bright sea.
+>
+> AVOID: printed words or titles, black bars, white edge lines, collage or grid, vignette, color grade, pink tint (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood; Yeshua's face never shown full and head-on; he kneels only when praying.
+
+**25B · drone · 8 s** (shot 34, "By the power of Your name!")
+> Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. His mantle is drawn up over his head, softly shadowing his face beneath the cloth. Seen from a distance, he stays small in the frame and is never turned squarely toward the camera. He stands on a hillside covered in wildflowers above the Sea of Galilee, a large crowd seated around him on the slope, a few fishing boats on the water below. The camera makes a slow drone rise up and back from behind the crowd, drifting out over the slope toward the sea. The setting sun lays a golden path across the water and long shadows across the hill. Wide lens, deep focus. The shot ends high and wide, the crowd around the small figure of Yeshua, the shining sea and far hills filling the frame.
+>
+> AVOID: printed words or titles, black bars, white edge lines, collage or grid, vignette, color grade, pink tint (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood; Yeshua's face never shown full and head-on; he kneels only when praying.
+
+## Scene 26 — The Storm · "By Your Spirit we are rising"
+
+**26A · drone into the storm · 6 s** (shot 19)
+> Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, dark brown hair to the nape of his neck, a full dark beard and dark brown eyes, wears a plain undyed cream tunic belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels at its four corners, with leather sandals. Seen from a distance, he stays small in the frame and is never turned squarely toward the camera. On the Sea of Galilee at night, a small wooden fishing boat climbs and drops over black, towering waves in driving rain; Yeshua stands upright in the boat with his mantle down and soaked, while the disciples cling to the sides and the mast. The camera descends from high above through the sheets of rain toward the boat in one slow, steady drone move. Lightning flickers inside the clouds and a thin silver edge of moonlight catches the wave crests. Wide lens, deep focus. The shot ends wide and high, the boat small among the waves, Yeshua's standing figure clear against the white spray.
+>
+> AVOID: printed words or titles, black bars, white edge lines, collage or grid, vignette, color grade, pink tint (keep warm gold), plastic or overly smooth skin, film grain, jarring cuts, blood; Yeshua's face never shown full and head-on; he kneels only when praying.
+
+Clip 26A is the only one needed for this scene in `SHOT-LIST.md`; the human-height storm shot is not made.
+
 ---
 
 ## Walking clips — instrumental breaks only
@@ -362,6 +383,6 @@ All use still 01 Toward Jerusalem (or 24 for W5–W6) as the starting picture. E
 
 ---
 
-## Still to write
+## Coverage
 
-`SHOT-LIST.md` also uses two scenes that are not among the 24: **25 Hillside Teaching** (shots 16 and 34) and **26 The Storm** (shot 19). They need their own scene descriptions before they get LTX prompts.
+All 26 scenes now have prompts, including 25 Hillside Teaching and 26 The Storm.
