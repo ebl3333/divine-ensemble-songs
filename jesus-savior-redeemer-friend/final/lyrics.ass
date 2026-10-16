@@ -1,0 +1,84 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyric,Inter Medium,64,&H00FFFFFF,&H00FFFFFF,&H00141414,&HA0000000,0,0,0,0,100,100,1,0,1,3.2,2.5,2,120,120,78,1
+Style: Title,Inter,96,&H00E6F4FF,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,3,0,1,2.2,3,5,100,100,0,1
+Style: Sub,Inter,52,&H00BFE3F5,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,6,0,1,1.8,2,5,100,100,0,1
+Style: Credit,Inter,44,&H00FFFFFF,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,2,0,1,1.4,1.5,5,100,100,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.50,0:00:12.65,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The Spirit of Jehovah
+Dialogue: 0,0:00:12.60,0:00:16.82,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Is resting upon Me
+Dialogue: 0,0:00:16.77,0:00:21.17,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}I'm anointed by my Father
+Dialogue: 0,0:00:21.12,0:00:25.66,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}To bring hope to the weary
+Dialogue: 0,0:00:25.61,0:00:29.67,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}To bring love to the lost
+Dialogue: 0,0:00:34.57,0:00:38.92,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}You have sent me with the promise
+Dialogue: 0,0:00:38.87,0:00:43.72,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}For the broken to be healed
+Dialogue: 0,0:00:43.67,0:00:48.41,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Chains are breaking hearts are rising
+Dialogue: 0,0:00:48.36,0:00:53.66,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}As Your freedom is revealed
+Dialogue: 0,0:00:53.61,0:00:57.03,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus God's Anointed
+Dialogue: 0,0:00:56.98,0:01:01.59,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Lifting burdens giving hope
+Dialogue: 0,0:01:01.54,0:01:05.93,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Binding wounds You heal my pain
+Dialogue: 0,0:01:05.88,0:01:10.36,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Pouring gladness over me
+Dialogue: 0,0:01:10.31,0:01:14.74,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:01:14.69,0:01:19.30,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:01:19.25,0:01:23.68,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:01:23.63,0:01:27.93,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:01:33.92,0:01:38.01,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}You declare this is the season
+Dialogue: 0,0:01:37.96,0:01:42.61,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Of Your mercy of Your light
+Dialogue: 0,0:01:42.56,0:01:46.85,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Every captive finds redemption
+Dialogue: 0,0:01:46.80,0:01:51.37,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Every prisoner takes flight
+Dialogue: 0,0:01:51.32,0:01:55.63,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}You give garlands for the ashes
+Dialogue: 0,0:01:55.58,0:02:00.13,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Turning mourning into song
+Dialogue: 0,0:02:00.08,0:02:04.52,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}By Your Spirit we are rising
+Dialogue: 0,0:02:04.47,0:02:10.59,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your strength we soar along
+Dialogue: 0,0:02:10.54,0:02:14.10,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus God's Anointed
+Dialogue: 0,0:02:14.05,0:02:18.53,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Lifting burdens giving hope
+Dialogue: 0,0:02:18.48,0:02:22.88,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Binding wounds You heal my pain
+Dialogue: 0,0:02:22.83,0:02:27.40,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Pouring gladness over me
+Dialogue: 0,0:02:27.35,0:02:31.70,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:02:31.65,0:02:36.09,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:02:36.04,0:02:40.52,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:02:40.47,0:02:45.79,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:02:50.92,0:02:55.31,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The broken find their healing
+Dialogue: 0,0:02:55.26,0:02:59.70,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The weary find their rest
+Dialogue: 0,0:02:59.65,0:03:04.12,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The mourning find their dancing
+Dialogue: 0,0:03:04.07,0:03:08.61,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}By the power of Your name!
+Dialogue: 0,0:03:08.56,0:03:12.92,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The fallen stand victorious
+Dialogue: 0,0:03:12.87,0:03:17.34,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The fearful walk in faith
+Dialogue: 0,0:03:17.29,0:03:21.29,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}The prisoners find freedom
+Dialogue: 0,0:03:21.24,0:03:27.08,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}By the power of Your name!
+Dialogue: 0,0:03:27.03,0:03:30.96,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus God's Anointed
+Dialogue: 0,0:03:30.91,0:03:35.17,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Lifting burdens giving hope
+Dialogue: 0,0:03:35.12,0:03:39.63,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Binding wounds You heal my pain
+Dialogue: 0,0:03:39.58,0:03:44.27,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Pouring gladness over me
+Dialogue: 0,0:03:44.22,0:03:48.44,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:03:48.39,0:03:52.64,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:03:52.59,0:03:57.19,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:03:57.14,0:04:01.67,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:04:16.86,0:04:21.43,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:04:21.38,0:04:25.91,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:04:25.86,0:04:30.15,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:04:30.10,0:04:35.66,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:04:52.98,0:04:57.34,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:04:57.29,0:05:01.66,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:05:01.61,0:05:06.11,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:05:06.06,0:05:11.41,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:05:54.00,0:05:58.50,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Beauty rises from the ashes
+Dialogue: 0,0:05:58.45,0:06:03.25,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}In Your love You set me free
+Dialogue: 0,0:06:03.20,0:06:07.43,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Jesus Savior My Redeemer
+Dialogue: 0,0:06:07.38,0:06:12.43,Lyric,,0,0,0,,{\fad(180,220)\blur0.6}Precious Guardian precious Friend
+Dialogue: 0,0:00:01.00,0:00:08.20,Title,,0,0,0,,{\fad(1200,900)\pos(960,470)}Jesus Savior Redeemer Friend
+Dialogue: 0,0:00:01.80,0:00:08.20,Sub,,0,0,0,,{\fad(1200,900)\pos(960,570)}DIVINE ENSEMBLE
+Dialogue: 1,0:06:14.50,0:06:31.50,Title,,0,0,0,,{\fad(900,1200)\pos(960,420)}Jesus Savior Redeemer Friend
+Dialogue: 1,0:06:14.90,0:06:31.50,Sub,,0,0,0,,{\fad(900,1200)\pos(960,520)}DIVINE ENSEMBLE
+Dialogue: 1,0:06:15.50,0:06:31.50,Credit,,0,0,0,,{\fad(900,1200)\pos(960,640)}Producer  Edward Liu
+Dialogue: 1,0:06:15.80,0:06:31.50,Credit,,0,0,0,,{\fad(900,1200)\pos(960,700)}Production  Dazadi Music
+Dialogue: 1,0:06:16.30,0:06:31.50,Sub,,0,0,0,,{\fad(900,1200)\pos(960,810)}dazadi.org
