@@ -1,0 +1,157 @@
+"""Jesus Savior Redeemer Friend — script-only LTX prompts (no starting pictures).
+
+Ed's direction (Oct 16, 2026):
+- No pictures. LTX makes every clip from the written description alone.
+- Subtle: Yeshua is seen from behind, over the shoulder, or as a side silhouette.
+  Never His full face or eyes; at most the edge of His cheek and beard.
+- Don't tell the story. The camera simply witnesses one quiet moment from it,
+  in gentle slow motion.
+- Feeling comes from the other people's faces, hands and bodies, and from the light.
+
+Run:  python3 prompts/build_script_only.py   -> writes prompts/scenes-ltx-script-only.md and .json
+"""
+import json, os
+
+LOOK = ("Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably "
+        "taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, "
+        "dark brown hair to the nape of his neck and a full dark beard, wears a plain undyed cream tunic "
+        "belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels "
+        "at its four corners, with leather sandals.")
+SUBTLE = ("We see him only from behind, over his shoulder, or as a soft side silhouette, his face turned "
+          "away or lost in shadow; at most the edge of his cheek and beard, never his eyes or full face.")
+SLOW = ("This is not a story being told: the camera quietly witnesses one moment already in progress, "
+        "in gentle slow motion, fabric, hair, dust and water drifting softly as if time is held still.")
+AVOID = ("Avoid: printed words or titles, black bars, white edge lines, collage or grid, vignette, color "
+         "grade, pink tint (keep warm natural gold), plastic or overly smooth skin, film grain, fast "
+         "action, jarring cuts, blood, Yeshua's face seen head-on or close, Yeshua's eyes, a young or "
+         "clean-shaven Yeshua; he kneels only when praying.")
+
+# (shot, label, seconds, mood, moment · camera · how it ends)
+SHOTS = [
+ (1, '1B', 6, 'Longing',
+  "Early morning over misty Judean hills; far below, a lone figure in cream walks a winding stony path toward Jerusalem, his staff and long shadow reaching ahead. A drone glides slowly high above and behind him. It ends wide and high, Yeshua small on the path, the golden city faint on the horizon."),
+ (2, '2A', 8, 'Stillness',
+  "Night in the quiet wilderness; Yeshua kneels in prayer beside a small campfire, seen from behind, his head bowed, sparks lifting slowly into a sky of stars. The camera eases forward through dark bushes at human height. It ends medium, from behind, his kneeling back lit warm by the fire."),
+ (3, '3A', 8, 'Holy awe',
+  "The Jordan River at midday; Yeshua stands waist-deep with his back to us, water streaming slowly from his hair and shoulders, a beam of soft light breaking through the clouds and a white dove gliding down above him. On the bank, people watch with hands on their hearts, eyes wide and shining. The camera sits low at water level behind him and tilts up slowly. It ends low behind his shoulder, the light and the dove above him."),
+ (4, '5A', 8, 'Gentle authority',
+  "A small stone synagogue on the Sabbath; Yeshua stands at the reading table holding an open parchment scroll on two wooden rollers, seen from behind and slightly to the side. Before him the seated listeners lean in, faces lit by window light, an old man slowly closing his eyes in wonder. The camera drifts slowly past his shoulder. It ends medium close over his shoulder on the listening faces."),
+ (5, '5B', 6, 'Warmth',
+  "The same synagogue from high in the rafters; shafts of dusty sunlight fall through a small high window onto the room, every head gently turned toward the tall figure at the reading table. The camera descends slowly through the light. It ends wide and high, the whole room turned toward Yeshua."),
+ (6, 'W1', 6, 'Journey',
+  "A dusty road through golden hills in late afternoon; Yeshua walks steadily with his staff, seen in soft side silhouette against the sun, his mantle over his head, heat haze shimmering. The camera tracks beside him at his walking pace. It ends medium in profile silhouette, the road and Jerusalem far behind him."),
+ (7, '7A', 6, 'Hope',
+  "Inside a crowded stone house, roof tiles lifted away above; four men lower a paralyzed man on a mat on ropes through the opening, dust and light pouring down slowly. Yeshua stands below with his back to us, looking up. The lowered man's face is full of fragile hope. The camera looks up from the floor behind Yeshua. It ends medium and low, the man on the mat descending above Yeshua's shoulders."),
+ (8, '7B', 6, 'Release',
+  "The same house; the once-paralyzed man rises slowly to his feet, his face breaking into tearful astonishment, his friends' hands over their mouths. Yeshua stands beside him, seen from behind. The camera watches at eye level from behind Yeshua. It ends medium, the healed man standing, Yeshua's shoulder at the edge of the frame."),
+ (9, '6A', 8, 'Tenderness',
+  "A narrow sunlit street; a man with bandaged hands kneels, and Yeshua, seen from behind, rests his hand gently on the man's head. The man's face, lifted, softens from shame into tears of relief, his skin clear. The camera moves slowly around behind Yeshua's shoulder. It ends close on the man's tearful, clean face, Yeshua's hand and sleeve at the edge of frame."),
+ (10, '13A', 8, 'Abundance',
+  "A green hillside by the Sea of Galilee; a small boy holds up a basket of barley loaves and two fish, beaming, while Yeshua kneels to his height, seen from behind. Around them, people pass bread hand to hand, smiling. The camera pushes in slowly at child height. It ends medium close on the boy's bright face over Yeshua's shoulder."),
+ (11, '8A', 6, 'Faith',
+  "A crowded market street; a woman in a dark mantle reaches through the crowd in slow motion, her trembling fingers closing on the knotted tassel at the corner of a cream mantle. Her face shows desperate hope turning to wonder. The camera stays low and close beside her hand. It ends extreme close on her fingers holding the tassel, the cream cloth filling the frame."),
+ (12, '9A', 6, 'Joy',
+  "A village wedding courtyard at dusk; servants pour from tall stone water jars and deep red wine flows into a clay cup. The steward tastes, his eyes widening, and he laughs, raising the cup. Yeshua stands in the background, seen from behind among the guests. The camera pans slowly along the jars. It ends medium close on the steward laughing, cup raised."),
+ (13, '10A', 8, 'Grief turned to joy',
+  "At the gate of a small village; a widow in black holds her young son, alive, both weeping and laughing, her hands on his face. Mourners lower their heads in astonishment. Yeshua stands at the edge of the frame, his back to us. The camera pushes in slowly at eye level. It ends close on mother and son, Yeshua's shoulder soft at the frame edge."),
+ (14, '14A', 8, 'Friendship',
+  "The shore of Galilee at sunrise; fishermen at their nets look up, faces open and curious, as Yeshua stands on the sand with his back to us, one hand extended toward them in welcome. The camera moves slowly behind his outstretched hand. It ends close behind his hand and shoulder, Peter's weathered face looking up at him."),
+ (15, 'W2', 6, 'Nostalgia',
+  "A golden hill road at sunset; Yeshua walks away from us, his mantle and tassels stirring in the breeze, a long shadow behind him, the sun low ahead. The camera follows low behind him. It ends medium from behind, his silhouette against the warm sky."),
+ (16, '25A', 8, 'Mercy',
+  "A grassy hillside above the sea; Yeshua sits on a rock, seen from behind, his open hands resting on his knees, while families sit on the grass below him listening, a mother holding her child close, faces peaceful. The camera drifts slowly among the listeners. It ends medium behind him, his open hands and the listening faces, the sun beyond."),
+ (17, '15A', 8, 'Freedom',
+  "A village lane; a healed man runs home in slow motion, arms open, and his wife and children run to meet him and throw their arms around him, laughing and crying. Far down the lane behind, a tall cream figure watches. The camera moves alongside the running man. It ends medium on the family's embrace."),
+ (18, '16A', 8, 'Mourning to song',
+  "A widow sits in a courtyard; village women gently set a garland of white and yellow flowers on her head, and her tear-wet face slowly lifts into a trembling smile. The camera stays close, at eye level. It ends close on her face beneath the garland."),
+ (19, '26A', 6, 'Tension',
+  "A small wooden fishing boat in a night storm on the Sea of Galilee; rain sweeps across black waves, a tall figure in cream stands at the stern, seen far below from above. The drone descends slowly through the rain. It ends wide and high, the tossing boat and the standing figure."),
+ (20, '4A', 8, 'Awe',
+  "Night on the sea, moonlight on the waves; over the frightened disciples' shoulders we see a tall cream silhouette walking slowly across the water toward the boat, his mantle moving in the wind. The disciples' faces turn from fear to awe. The camera sits inside the boat behind them. It ends medium over their shoulders, the silhouette on the waves."),
+ (21, '11C', 6, 'Longing',
+  "The dusty Jericho road; a blind beggar sits by the wayside, his clouded eyes lifted, his hands reaching toward the sound of a passing crowd. A cream sleeve and a hand come into frame from behind and reach toward his face. The camera is close at eye level. It ends extreme close on his upturned face and the reaching hand."),
+ (22, '11A', 8, 'Wonder',
+  "The same road; Bartimaeus blinks slowly into the light, his eyes now clear, and breaks into astonished laughter, hands on his cheeks. Yeshua stands before him, seen from behind. The camera is low behind Yeshua's shoulder. It ends close and low on Bartimaeus looking up, laughing."),
+ (23, '12B', 8, 'Peace after storm',
+  "The Sea of Galilee just after a storm; the water turns glassy and calm, the clouds parting to golden light, the small boat resting still. The drone rises slowly as the clouds open. It ends wide and high on the boat on the calm, golden sea."),
+ (24, '23A', 8, 'Friendship',
+  "A charcoal fire on the shore at dawn; Yeshua sits by the fire, seen from behind, handing bread to Peter, whose wet face softens into a grateful, tearful smile. Fish cook on the coals, smoke curling slowly. The camera sits at seated height behind Yeshua. It ends medium on Peter receiving the bread over Yeshua's shoulder."),
+ (25, '23B', 6, 'Warmth',
+  "The same shore from above; a small glowing fire, a few figures sitting around it, the boat pulled up on the sand, the sunrise spreading gold over the water. The drone rises slowly. It ends wide and high on the small fire on the sunrise shore."),
+ (26, 'W3', 6, 'Nostalgia',
+  "A stony path in warm afternoon light; close on Yeshua's dusty sandalled feet and the hem of his tunic as he walks, the end of his staff touching the ground, dust drifting in the sunbeams. The camera tracks at ground level beside his feet. It ends extreme close on his feet, dust floating in the light."),
+ (27, '17A', 6, 'Joy',
+  "A village street; the healed man lifts his rolled-up mat high over his head and walks, laughing, through a parting crowd whose faces are full of amazement. The camera is low. It ends medium and low on the man lifting his mat high against the sky."),
+ (28, '18A', 6, 'Rest',
+  "The shade of an old olive tree in the afternoon; Yeshua sits against the trunk, seen from behind and to the side, a small boy leaning sleepily on his arm, leaves stirring, light dappling the ground. The camera sits beside them at seated height. It ends medium close on the boy resting, Yeshua's shoulder and beard edge in soft shadow."),
+ (29, '19A', 6, 'Celebration',
+  "A village square at dusk; men and women dance in a circle, arms linked, skirts and mantles swinging in slow motion, faces full of laughter. The camera moves inside the circle. It ends medium on dancers spinning past, joyful faces."),
+ (30, '19B', 6, 'Exultation',
+  "The same square from above; the whole circle of dancers turning, lamps glowing, the hills around golden in the last light. The camera cranes up slowly. It ends wide and high on the whole square and the hills."),
+ (31, '21A', 6, 'Victory',
+  "A market square; a woman who was bent for years slowly straightens and stands tall, her radiant face lifting toward the sky, her hands held in the hands of a tall man seen from behind. The camera is at eye level behind his shoulder. It ends close on her radiant face."),
+ (32, '20A', 6, 'Courage',
+  "Night on the sea; from behind Peter we see his hand reaching out over the waves, and a strong hand in a cream sleeve grasping it firmly. Peter's face, in profile, shows fear giving way to trust. The camera stays behind Peter's shoulder. It ends medium on the two hands meeting above the water."),
+ (33, '22A', 6, 'Freedom',
+  "The road out of Jericho; Bartimaeus walks beside Yeshua, laughing and looking at everything, while Yeshua walks with his back to us. Dust glows in the low sun. The camera tracks beside them. It ends medium on Bartimaeus laughing, Yeshua's back beside him."),
+ (34, '25B', 8, 'Majesty',
+  "The hillside above the Sea of Galilee from high above; a great crowd seated on the green slope, a lone figure in cream sitting before them, the shining sea beyond. The drone glides slowly. It ends wide and high on the hillside and the sea."),
+ (35, '13B', 8, 'Abundance',
+  "From high above the shore; thousands of people seated in groups on the grass, baskets passing from hand to hand, the sea glittering beyond. The drone drifts slowly. It ends wide and high on thousands eating by the sea."),
+ (36, '8B', 6, 'Faith',
+  "A busy market street from above; a tall figure in a cream mantle moves slowly through the crowd toward the town gate, people turning to follow him. The drone tracks high above. It ends wide and high on the crowd around him, the gate ahead."),
+ (37, '9B', 6, 'Joy',
+  "A wedding courtyard from high above at night; guests dance in rings, lamps and torches glowing, cups raised. The camera cranes slowly overhead. It ends wide and high on the courtyard full of dancing guests."),
+ (38, '10B', 8, 'Triumph',
+  "The gate of the village of Nain from above; a crowd gathers around the widow and her son, people embracing, mourning cloths falling away. The drone rises slowly, stopping lower. It ends wide and high on the crowd around the family at the gate."),
+ (39, '24A', 8, 'Devotion',
+  "A road through golden hills at evening; Yeshua walks ahead, seen from behind, and following him are many people walking together, faces soft with love and gratitude. The camera follows at eye level behind him. It ends medium from behind his shoulders, the people around him, Jerusalem ahead in the sunset."),
+ (40, '2B', 8, 'Nostalgia',
+  "A hilltop at night above a misty valley; Yeshua kneels in prayer, a small dark silhouette against a sky full of stars, a tiny campfire glowing beside him. The drone orbits slowly, high. It ends wide and high on him praying above the misty valley."),
+ (41, 'W4', 6, 'Remembrance',
+  "A country road in golden light; Yeshua walks among his followers, seen from behind and slightly to the side, a woman beside him smiling as she speaks to him. The camera tracks at his side, a step behind. It ends full figure at eye level from behind, Yeshua walking among his followers."),
+ (42, '16B', 8, 'Joy',
+  "A village courtyard from above; women dance slowly around the widow, who sits at the center wearing her white and yellow garland, petals drifting. The camera rises slowly. It ends wide and high on the widow in the center with her garland."),
+ (43, '15B', 8, 'Love',
+  "A village lane from above; a small family holds each other tight in the middle of the lane, neighbors coming out of doorways. The drone rises slowly. It ends wide and high, the family small, embracing."),
+ (44, 'W5', 8, 'Nostalgia',
+  "A stony hill path from straight above; a tall figure in a cream mantle walks slowly through a flock of sheep, the sheep parting around him, long shadows on the ground. The drone looks straight down and tracks with him. It ends wide and top-down on him and the sheep around him."),
+ (45, '3B', 8, 'Remembrance',
+  "The Jordan River from above; rays of light fall through the clouds onto the water, two small figures standing in the river, a crowd on the bank. The drone descends slowly. It ends wide and high on the light rays on the river."),
+ (46, '6B', 8, 'Tenderness',
+  "A narrow village street from above; a kneeling man and a tall figure in cream bending over him, passers-by stopping to watch, sunlight across the stones. The drone rises gently. It ends wide and high on the two of them in the street."),
+ (47, '11B', 8, 'Gratitude',
+  "The Jericho road from above; a crowd moves along the road, and at its front a man in a ragged mantle walks beside a tall figure in cream, palm trees along the way. The drone drifts slowly. It ends wide and high on the two of them on the road."),
+ (48, 'W6', 8, 'Belonging',
+  "A road at sunset; the camera walks just behind Yeshua, low, as he leads the way, and around and ahead of him his followers walk close together, faces bright and glad, children running alongside. It ends medium and low from behind his shoulder, the followers filling the road."),
+ (49, '20B', 8, 'Wonder',
+  "The Sea of Galilee at night from above; two small figures stand together on the moonlit water, the fishing boat a short distance away. The drone circles slowly. It ends wide and high on the two figures and the boat."),
+ (50, '22B', 8, 'Belonging',
+  "A long road from above; a great crowd follows a tall figure in cream, the road winding through green fields toward the hills. The drone glides slowly. It ends wide and high on the crowd following him."),
+ (51, '21B', 8, 'Joy remembered',
+  "A seaside market town from above; the crowded square and stalls, boats along the shore, the sea glittering in the afternoon sun. The drone drifts slowly. It ends wide and high on the market and the sea."),
+ (52, '12A', 8, 'Awe',
+  "Inside the small fishing boat just after the storm; the wet disciples look up, faces full of awe and quiet wonder, as golden light breaks through the parting clouds. Yeshua stands at the stern, seen from behind. The camera holds steady at eye level inside the boat. It ends medium on the disciples looking up at the golden sky."),
+ (53, '24B', 8, 'Climax',
+  "Golden hills at sunset from above; a long procession of people follows a tall figure in cream along the road toward Jerusalem, the city glowing on its hill. The drone rises slowly. It ends wide and high on everyone following him toward Jerusalem at sunset."),
+ (54, '18B', 8, 'Peaceful farewell',
+  "An old olive tree on a hill above the sea at sunset; a single figure in cream sits beneath it, small, the sea calm and golden. The drone rises very slowly. It ends wide and high on the olive tree and the sea at sunset, the light softly fading."),
+]
+
+def prompt(moment, mood):
+    return f"{LOOK} {SUBTLE} {SLOW} {moment} Mood: {mood.lower()}, carried by the warm natural light, the slow movement and the faces of anyone near him. {AVOID}"
+
+
+rows = []
+for n, lab, sec, mood, moment in SHOTS:
+    rows.append({'shot': n, 'label': lab, 'duration': sec, 'fps': 24, 'mood': mood, 'prompt': prompt(moment, mood)})
+
+here = os.path.dirname(os.path.abspath(__file__))
+json.dump(rows, open(os.path.join(here, 'scenes-ltx-script-only.json'), 'w'), indent=1, ensure_ascii=False)
+md = ["# Jesus Savior Redeemer Friend — script-only LTX prompts", "",
+      "No starting pictures. Each shot is sent to LTX as text-to-video (ltx-2-5-pro, 1920×1080, 24 fps, no audio).",
+      "Ed's direction (Oct 16, 2026): subtle — Yeshua seen from behind, over the shoulder or in side silhouette, never His full face or eyes; don't tell the story, just witness one moment from it in gentle slow motion; the feeling lives in the other people's faces and in the light.", ""]
+for r in rows:
+    md += [f"## Shot {r['shot']} · {r['label']} · {r['duration']} s · {r['mood']}", "", r['prompt'], ""]
+open(os.path.join(here, 'scenes-ltx-script-only.md'), 'w').write("\n".join(md))
+print(len(rows), 'shots written')
