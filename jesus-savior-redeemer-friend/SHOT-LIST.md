@@ -10,7 +10,7 @@ Yeshua walking shots fill the instrumental breaks, each from a different angle: 
 |---|---|---|---|---|---|
 | 1 | 0:00–0:04 | (intro, slow) | 01 Toward Jerusalem · D: glide over misty hills | Wide · high · Yeshua small on the path, Jerusalem ahead | Longing |
 | 2 | 0:04–0:09 | (intro, slow) | 02 The Prayer · H: push through the bushes | Medium · eye level from behind · Yeshua praying | Stillness |
-| 3 | 0:09–0:17 | The Spirit of Jehovah / Is resting upon Me | 03 The Baptism · H: waist-deep, tilt up | Close · low · Yeshua's lit face, the dove above | Holy awe |
+| 3 | 0:09–0:17 | The Spirit of Jehovah / Is resting upon Me | 03 The Baptism · H: waist-deep, tilt up | Low · behind His shoulder · John helping Him rise, the dove above | Holy awe |
 | 4 | 0:17–0:25 | I'm anointed by my Father / To bring hope to the weary | 05 The Scroll · H: over the listeners' shoulders | Medium close · eye level · Yeshua lifting His eyes from the scroll | Gentle authority |
 | 5 | 0:25–0:30 | To bring love to the lost | 05 The Scroll · D (high crane): down through the window light | Wide · high · the room turned toward Yeshua | Warmth |
 | 6 | 0:30–0:35 | (break, slow) | 01 · Walk: side tracking at His pace | Medium · eye level, profile · Yeshua walking, Jerusalem behind | Journey |
