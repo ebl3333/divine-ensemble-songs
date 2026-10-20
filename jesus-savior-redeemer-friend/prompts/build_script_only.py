@@ -2,6 +2,11 @@
 
 Ed's direction (Oct 16, 2026):
 - No pictures. LTX makes every clip from the written description alone.
+- Oct 19, 2026: Yeshua's description rewritten to match the character sheet
+  (references/01_Yeshua.png): long wavy hair, hooded rough-woven mantle with blue
+  stripes and tzitzit, brown woven sash, ankle-length tunic; temples and beard edges
+  never cut (Lev 19:27) but no modern curled sidelocks. Baptism: clothes laid aside,
+  linen loincloth, rising from the water in prayer (Matt 3:16, Luke 3:21).
 - Subtle: Yeshua is seen from behind, over the shoulder, or as a side silhouette.
   Never His full face or eyes; at most the edge of His cheek and beard.
 - Don't tell the story. The camera simply witnesses one quiet moment from it,
@@ -12,11 +17,18 @@ Run:  python3 prompts/build_script_only.py   -> writes prompts/scenes-ltx-script
 """
 import json, os
 
-LOOK = ("Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably "
-        "taller than those around him, lean and weathered with sun-tanned olive skin, calloused hands, "
-        "dark brown hair to the nape of his neck and a full dark beard, wears a plain undyed cream tunic "
-        "belted at the waist and a large cream rectangular mantle with dark stripes and knotted tassels "
-        "at its four corners, with leather sandals.")
+BODY = ("Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably "
+        "taller than those around him, lean and weathered with sun-tanned olive skin and calloused hands. "
+        "Long dark brown wavy hair falling past his shoulders; full, natural dark beard. Following the "
+        "Torah (Leviticus 19:27), the hair at his temples and the edges of his beard are never cut or "
+        "trimmed: the side hair grows down freely and blends into his long hair and beard, with no "
+        "separate curled sidelocks.")
+CLOTHES = ("He wears an ankle-length undyed cream tunic of rough, coarse hand-woven linen, slightly frayed "
+           "at the hem, tied at the waist with a wide brown woven sash whose long ends hang down the front; "
+           "over it a large rough-woven cream mantle with two thin indigo-blue stripes near its edges, drawn "
+           "up over his head as a hood and falling over his shoulders and arms, with blue-and-white knotted "
+           "tassels (tzitzit) hanging from its four corners; worn brown leather strap sandals.")
+LOOK = BODY + " " + CLOTHES
 SUBTLE = ("We see him only from behind, over his shoulder, or as a soft side silhouette, his face turned "
           "away or lost in shadow; at most the edge of his cheek and beard, never his eyes or full face.")
 SLOW = ("This is not a story being told: the camera quietly witnesses one moment already in progress, "
@@ -24,7 +36,7 @@ SLOW = ("This is not a story being told: the camera quietly witnesses one moment
 AVOID = ("Avoid: printed words or titles, black bars, white edge lines, collage or grid, vignette, color "
          "grade, pink tint (keep warm natural gold), plastic or overly smooth skin, film grain, fast "
          "action, jarring cuts, blood, Yeshua's face seen head-on or close, Yeshua's eyes, a young or "
-         "clean-shaven Yeshua; he kneels only when praying.")
+         "clean-shaven Yeshua, short or trimmed hair, trimmed sideburns, curled sidelocks, modern clothing on anyone, lens flare; he kneels only when praying.")
 
 # (shot, label, seconds, mood, moment · camera · how it ends)
 SHOTS = [
@@ -33,7 +45,7 @@ SHOTS = [
  (2, '2A', 8, 'Stillness',
   "Night in the quiet wilderness; Yeshua kneels in prayer beside a small campfire, seen from behind, his head bowed, sparks lifting slowly into a sky of stars. The camera eases forward through dark bushes at human height. It ends medium, from behind, his kneeling back lit warm by the fire."),
  (3, '3A', 8, 'Holy awe',
-  "The Jordan River at midday; Yeshua stands waist-deep with his back to us, water streaming slowly from his hair and shoulders, a beam of soft light breaking through the clouds and a white dove gliding down above him. On the bank, people watch with hands on their hearts, eyes wide and shining. The camera sits low at water level behind him and tilts up slowly. It ends low behind his shoulder, the light and the dove above him."),
+  "The Jordan River at midday, Judean wilderness hills behind. Yeshua has laid his mantle, sash and tunic on the bank and wears only a simple undyed linen loincloth; we see his bare back and shoulders and long wet hair as he rises slowly up out of the water, waist-deep, his head bowed in prayer. Beside him stands John the Baptist, lean and sun-dark, in a rough camel-hair garment with a leather belt, his hand lifting from Yeshua's shoulder. Above them the clouds part, a beam of soft golden light falls, and a white dove glides down toward Yeshua. On the bank, first-century villagers in plain homespun robes and head coverings watch with hands on their hearts, eyes wide and shining. The camera sits low at water level behind Yeshua and tilts up slowly. It ends low behind his shoulder, the light and the dove above him."),
  (4, '5A', 8, 'Gentle authority',
   "A small stone synagogue on the Sabbath; Yeshua stands at the reading table holding an open parchment scroll on two wooden rollers, seen from behind and slightly to the side. Before him the seated listeners lean in, faces lit by window light, an old man slowly closing his eyes in wonder. The camera drifts slowly past his shoulder. It ends medium close over his shoulder on the listening faces."),
  (5, '5B', 6, 'Warmth',
@@ -138,13 +150,17 @@ SHOTS = [
   "An old olive tree on a hill above the sea at sunset; a single figure in cream sits beneath it, small, the sea calm and golden. The drone rises very slowly. It ends wide and high on the olive tree and the sea at sunset, the light softly fading."),
 ]
 
-def prompt(moment, mood):
-    return f"{LOOK} {SUBTLE} {SLOW} {moment} Mood: {mood.lower()}, carried by the warm natural light, the slow movement and the faces of anyone near him. {AVOID}"
+# Shots where He has laid His clothes aside (the baptism) use His body description only.
+NO_CLOTHES = {3}
+
+
+def prompt(moment, mood, look=LOOK):
+    return f"{look} {SUBTLE} {SLOW} {moment} Mood: {mood.lower()}, carried by the warm natural light, the slow movement and the faces of anyone near him. {AVOID}"
 
 
 rows = []
 for n, lab, sec, mood, moment in SHOTS:
-    rows.append({'shot': n, 'label': lab, 'duration': sec, 'fps': 24, 'mood': mood, 'prompt': prompt(moment, mood)})
+    rows.append({'shot': n, 'label': lab, 'duration': sec, 'fps': 24, 'mood': mood, 'prompt': prompt(moment, mood, BODY if n in NO_CLOTHES else LOOK)})
 
 here = os.path.dirname(os.path.abspath(__file__))
 json.dump(rows, open(os.path.join(here, 'scenes-ltx-script-only.json'), 'w'), indent=1, ensure_ascii=False)
