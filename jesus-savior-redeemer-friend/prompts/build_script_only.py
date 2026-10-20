@@ -54,7 +54,7 @@ SLOW = ("This is not a story being told: the camera quietly witnesses one moment
 AVOID = ("Avoid: printed words or titles, black bars, white edge lines, collage or grid, vignette, color "
          "grade, pink tint (keep warm natural gold), plastic or overly smooth skin, film grain, fast "
          "action, jarring cuts, blood, Yeshua's face seen from the front, Yeshua looking at the camera, a young or "
-         "clean-shaven Yeshua, short or trimmed hair, trimmed sideburns, curled sidelocks, modern clothing on anyone, lens flare; he kneels only when praying.")
+         "clean-shaven Yeshua, short or trimmed hair, trimmed sideburns, curled sidelocks, modern clothing on anyone, lens flare, extra hands or arms, twisted or broken-looking limbs; he kneels only when praying.")
 
 # (shot, label, seconds, mood, moment · camera · how it ends)
 SHOTS = [
@@ -71,11 +71,11 @@ SHOTS = [
  (6, 'W1', 6, 'Journey',
   "A dusty road through golden hills in late afternoon; Yeshua walks steadily with his staff, seen from behind and slightly to one side, his mantle over his head, the edge of his beard just showing past the hood, heat haze shimmering. The camera tracks a step behind and beside him at his walking pace. It ends medium, three-quarters from behind, the road and Jerusalem far ahead."),
  (7, '7A', 6, 'Hope',
-  "Inside a crowded stone house, roof tiles lifted away above; four men lower a paralyzed man on a mat on ropes through the opening, dust and light pouring down slowly. Yeshua stands below, seen from behind and slightly to the side, his head tilted up so the line of his beard shows. The lowered man's face is full of fragile hope. The camera looks up from the floor behind Yeshua. It ends medium and low, the man on the mat descending above Yeshua's shoulders."),
+  "Inside a crowded stone house, roof tiles lifted away above; four men lower a paralyzed man through the opening on four ropes, one at each corner of a simple flat woven reed mat; he lies flat and still on his back, head on a small rolled cloth, arms resting at his sides, his thin limp legs straight under a plain blanket, his body natural and unmoving as the mat descends level and slow, dust and light pouring down. Yeshua stands below, seen from behind and slightly to the side, his head tilted up so the line of his beard shows. The lowered man's face is full of fragile hope. The camera looks up from the floor behind Yeshua. It ends medium and low, the man on the mat descending above Yeshua's shoulders."),
  (8, '7B', 6, 'Release',
   "The same house; the once-paralyzed man rises slowly to his feet, his face breaking into tearful astonishment, his friends' hands over their mouths. Yeshua stands beside him, seen over his shoulder, the edge of his beard just visible. The camera watches at eye level from behind and to the side of Yeshua. It ends medium, the healed man standing, Yeshua's shoulder at the edge of the frame."),
  (9, '6A', 8, 'Tenderness',
-  "A narrow sunlit street; a leper in torn, ragged clothes kneels on the stones, and Yeshua, seen over his shoulder, rests his hand gently on the man's head. The man's face, lifted, softens from shame into tears of relief as the pale patches and sores on his face and hands slowly fade away until his skin is clean. The camera moves slowly around behind Yeshua's shoulder. It ends close on the man's tearful, clean face, Yeshua's hand and sleeve at the edge of frame."),
+  "A narrow sunlit street; a man full of leprosy kneels on the stones in torn, ragged clothes, chalky white scaly patches and sores across his face, neck, hands and forearms, his own two hands clasped at his chest. Yeshua, seen over his shoulder, rests only his right hand gently on top of the man's head, and it stays there; his left arm stays hidden inside his mantle. The man's face, lifted, softens from shame into tears of relief as the white patches and sores slowly fade away until his skin is clean and whole. The camera moves slowly around behind Yeshua's shoulder. It ends close on the man's tearful, clean face, Yeshua's hand and sleeve at the edge of frame."),
  (10, '13A', 8, 'Abundance',
   "A green hillside by the Sea of Galilee; a small boy holds up a basket of barley loaves and two fish, beaming, while Yeshua kneels to his height, seen from behind and slightly to the side. Around them, people pass bread hand to hand, smiling. The camera pushes in slowly at child height. It ends medium close on the boy's bright face over Yeshua's shoulder."),
  (11, '8A', 6, 'Faith',
