@@ -75,7 +75,7 @@ SHOTS = [
  (8, '7B', 6, 'Release',
   "The same house; the once-paralyzed man rises slowly to his feet, his face breaking into tearful astonishment, his friends' hands over their mouths. Yeshua stands beside him, seen over his shoulder, the edge of his beard just visible. The camera watches at eye level from behind and to the side of Yeshua. It ends medium, the healed man standing, Yeshua's shoulder at the edge of the frame."),
  (9, '6A', 8, 'Tenderness',
-  "A narrow sunlit street; a man with bandaged hands kneels, and Yeshua, seen over his shoulder, rests his hand gently on the man's head. The man's face, lifted, softens from shame into tears of relief, his skin clear. The camera moves slowly around behind Yeshua's shoulder. It ends close on the man's tearful, clean face, Yeshua's hand and sleeve at the edge of frame."),
+  "A narrow sunlit street; a leper in torn, ragged clothes kneels on the stones, and Yeshua, seen over his shoulder, rests his hand gently on the man's head. The man's face, lifted, softens from shame into tears of relief as the pale patches and sores on his face and hands slowly fade away until his skin is clean. The camera moves slowly around behind Yeshua's shoulder. It ends close on the man's tearful, clean face, Yeshua's hand and sleeve at the edge of frame."),
  (10, '13A', 8, 'Abundance',
   "A green hillside by the Sea of Galilee; a small boy holds up a basket of barley loaves and two fish, beaming, while Yeshua kneels to his height, seen from behind and slightly to the side. Around them, people pass bread hand to hand, smiling. The camera pushes in slowly at child height. It ends medium close on the boy's bright face over Yeshua's shoulder."),
  (11, '8A', 6, 'Faith',
