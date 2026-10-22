@@ -3,7 +3,9 @@
 Album: *God Is About to Show Up* (track 2, reprise, 4:56) · Divine Ensemble · Production: Dazadi Music
 
 ## What this film is
-Six people on one city block, each hurting behind a mask. At holidays and gatherings they pretend or watch others enjoy life. Each reaches a bottom and prays, using the body and not words. Christ comes as a hand, a figure from behind and a golden light that enters like sap. They are grafted into the vine and into each other, and the film ends at the next New Year with all six together and one vine of light over the city.
+**Overcoming means giving while still in lack.** Each of the six is not healed first; they reach out to someone else from inside their own shortage: Walter on his cane offers his chair, Maria gives away her own dinner, Jordan puts his jacket on the boy who bullied him, Daniel holds the ladder for a young worker, Marcus sits beside another man in the corridor, and Rose gives her coat. That is the graft: a branch bound into the vine bears fruit for others.
+
+Six people on one city block, each hurting behind a mask. At holidays and gatherings they pretend or watch others enjoy life. Each reaches a bottom and prays, using the body and not words. Christ comes as a hand, a figure from behind and a golden light that enters like sap. They are grafted into the vine, and the film ends at the next New Year with all six together with those they helped, and one vine of light over the city.
 
 ## Rules
 - **No dialogue.** Nobody talks to anyone. Prayer is body only.
@@ -11,6 +13,7 @@ Six people on one city block, each hurting behind a mask. At holidays and gather
 - Yeshua is never shown full-face: a hand, a figure from behind in cream, far silhouette, or light. He never looks at the camera.
 - Light is living water: it wells up inside a person, flows to the next, and many springs become one vine.
 - Distance shows healing: alone and far at the start, close and together at the end. Handheld and cold when low; smooth and warm after the light.
+- Overcoming is shown by giving from lack: show the lack (empty plate, cane, wheelchair, shaking hands, no coat) in the same shot as the gift. Nobody is shown fully fixed.
 - No needles, no drug use, no blood on screen. Real, natural light; no text; no vignette; no grain; no jarring cuts.
 
 ## Cast
@@ -56,25 +59,25 @@ Camera moves used: drone, crane up and down, orbit, push-in, pull-back, rack foc
 | 26 | 2:45–2:51 | The Prayers | Rose kneels | Rose kneels at a bare church pew, hands folded, shoulders shaking. | Slow push-in, handheld then steady. | Medium, from behind, a single figure in an empty hall | Intercession |
 | 27 | 2:51–2:58 | The Prayers | The golden thread | A thin thread of golden light runs from her folded hands out across the floor toward the city. | Crane up and follow the thread out through a window. | Wide, high, the thread leaving the hall | The Word moves |
 | 28 | 2:58–3:04 | The Graft | The figure sits | A figure in silhouette from behind, in cream, sits in Walter's empty chair; no face. | Over-the-shoulder from Walter's bed; focus on the chair. | Medium, a shoulder and long hair in warm light | Presence |
-| 29 | 3:04–3:10 | The Graft | The blanket warms | Light spreads across Walter's blanket; his hand rests on the arm of the chair. | Pull back and up. | High, Walter at peace, the chair filled with light | Rest |
-| 30 | 3:10–3:16 | The Graft | Rose at the door | Rose stands in a hallway holding a covered dish and knocks at Maria's door. | Tracking behind her, steady. | Medium, from behind, door and warm light | Kindness |
-| 31 | 3:16–3:22 | The Graft | The table | Maria and Daniel at the kitchen table; she places her hand on his shoulder and he places his over hers. | Static wide; slow push-in on the two hands. | Close, two hands, no faces | Reunion |
-| 32 | 3:22–3:28 | The Graft | Two backs | Maria kneels and leans her forehead on his shoulder; he wraps an arm around her. | Slow orbit, handheld to steady. | Medium, from behind, a couple joined in warm light | Forgiveness |
-| 33 | 3:28–3:34 | The Graft | Jordan and the push | A bigger boy shoves a smaller kid in the schoolyard; Jordan walks between them. | Low-angle track toward them; slow motion. | Low, Jordan stands tall between the two | Courage |
-| 34 | 3:34–3:40 | The Graft | The standing | The bully steps back; Jordan lowers his hand; the smaller kid grips his sleeve. | Pull-back crane. | Wide, three figures, soft light | Peace |
-| 35 | 3:40–3:47 | The Graft | Hands beneath the chair | Neighbors' hands grip Daniel's wheelchair and lift it up the porch steps together. | Low angle from the ground, steady. | Low, many hands, the chair rising | Carried |
-| 36 | 3:47–3:53 | The Graft | The hand in the corridor | A hand lowers beside Marcus on the hospital floor. | Over-the-shoulder; light grows from behind the hand. | Medium, a hand reaching, Marcus' shaking hands open | Rescue |
-| 37 | 3:53–3:59 | The Graft | The figure beside him | A figure in silhouette from behind sits beside Marcus on the floor; the light enters his chest like sap. | Slow crane down to a top-down view. | High, two figures on the floor, golden light | Received |
-| 38 | 3:59–4:05 | The Graft | The binding | Hands wrap the grafted branch with tape and seal it with wax. | Macro, gentle. | Macro, no faces | Held |
-| 39 | 4:05–4:11 | The Graft | Sap rising | Time-lapse: a bud swells, a leaf opens on the grafted branch. | Locked-off macro time-lapse. | Macro, the leaf unfurling | Life |
-| 40 | 4:11–4:17 | The Graft | The match cut | Marcus' open hand in the corridor dissolves into an open leaf on the vine. | Match cut. | Close, hand into leaf | Transformation |
-| 41 | 4:17–4:23 | The Graft | The children run | Maria's two children run into the kitchen and throw their arms around their parents. | Handheld, steady. | Medium, from behind, a family gathering | Joy |
-| 42 | 4:23–4:30 | The Graft | The street at dawn | Daniel rolls his chair to the curb; Jordan and Rose stand beside him in warm sunrise. | Tracking beside them. | Wide, sunrise, three figures | Belonging |
-| 43 | 4:30–4:34 | The Homecoming | The stairs | Marcus' feet climb the stairwell one step at a time toward Walter's floor. | Tracking beside his feet. | Low, feet and steps, light ahead | Return |
-| 44 | 4:34–4:38 | The Homecoming | The door | Marcus stands at Walter's door with his hand raised to knock. | Over-the-shoulder. | Medium, from behind, the door | Courage |
-| 45 | 4:38–4:43 | The Homecoming | Father and son | The door opens; Walter stands with a cane; the two men embrace, seen from behind. | Slow push-in, steady. | Medium, from behind, two backs | Reunion |
-| 46 | 4:43–4:47 | The Homecoming | The room fills | Maria, Daniel, Jordan and Rose come in one by one and stand close; shown only as positions. | Pull-back crane through the doorway. | Wide, the whole room in one light | Family |
-| 47 | 4:47–4:51 | The Homecoming | The vine of light | The warm light from every window rises and joins above the building as one vine. | High crane up through the ceiling and over the roof. | Extreme wide, high, one vine of light over the city | Glory |
-| 48 | 4:51–4:56 | The Homecoming | Next New Year | The same street as before; all six stand together as fireworks open above them. | Slow orbit up to a high shot. | Wide, high, six figures together, the light rising with fireworks | Fruit |
+| 29 | 3:04–3:10 | The Graft | The chair offered | Walter, weak on his cane and shaking, drags the chair to his open doorway for anyone who passes. | Low tracking, handheld, slow. | Medium, low, a frail man pulling a chair into the light of the hall | Giving from weakness |
+| 30 | 3:10–3:16 | The Graft | Maria's own plate | Maria covers her own dinner plate on the table and carries it out; her place at the table is left empty. | Static wide, then a push-in on the empty place. | Medium, her hand lifting the plate, an empty table | Sacrifice |
+| 31 | 3:16–3:22 | The Graft | The plate on the chair | Maria sets her plate on the chair at Walter's door and walks away hungry. | Over-the-shoulder, steady. | Medium, from behind, a plate in warm light on a chair | Unseen kindness |
+| 32 | 3:22–3:28 | The Graft | The bully alone | The bigger boy sits alone on the school steps as a car drives off; his shoulders shake, his fists are clenched. | Slow push-in from behind, handheld. | Medium, from behind, a big boy folded on the steps | Pain behind the bully |
+| 33 | 3:28–3:34 | The Graft | Jordan crosses | Jordan, still bruised, crosses the empty yard toward him. | Low-angle tracking, slow motion. | Low, a small boy walking toward the one who hurt him | Courage |
+| 34 | 3:34–3:40 | The Graft | The jacket | Jordan sits beside him and lays his own jacket over the bully's shoulders; the bully's fist slowly opens. | Close on hands and fabric, no faces, then pull back. | Close, fist opening, a jacket settling | Forgiveness |
+| 35 | 3:40–3:47 | The Graft | Daniel at the ladder | At a house under construction a young roofer starts up a ladder; Daniel, in his chair, rolls over. | Low angle at wheelchair height, tracking. | Low, the ladder rising, the chair at its foot | Remembering |
+| 36 | 3:47–3:53 | The Graft | Held steady | Daniel grips both rails of the ladder with white knuckles and holds it still while the young man climbs. | Macro on his hands, then crane up. | Macro, hands on rails, then a wide shot of the young man at the top | Overcoming |
+| 37 | 3:53–3:59 | The Graft | Marcus beside another | In the hospital corridor a young man crashes against the wall; Marcus, still shaking, sits beside him and puts a hand on his back. | Over-the-shoulder, steady. | Medium, from behind, two young men on the floor | Mercy |
+| 38 | 3:59–4:05 | The Graft | The light passes | Golden light runs from Marcus' hand into the other man's back like sap. | Rack focus from the hand to the light. | Close, a hand on a back, light flowing | The Word moves |
+| 39 | 4:05–4:11 | The Graft | Rose's coat | On a cold New Year's street Rose takes off her own coat and puts it on a homeless woman, then stands in the cold. | Slow crane up from the two women. | Wide, high, a small figure in her sweater giving her coat | Giving from lack |
+| 40 | 4:11–4:17 | The Graft | The binding | Hands wrap the grafted branch with tape and seal it with wax. | Macro, gentle. | Macro, no faces | Held |
+| 41 | 4:17–4:23 | The Graft | Sap rising | Time-lapse: a bud swells and a leaf opens on the grafted branch. | Locked-off macro time-lapse. | Macro, the leaf unfurling | Life |
+| 42 | 4:23–4:30 | The Graft | The match cut | Marcus' hand on the other man's back dissolves into a leaf opening on the vine. | Match cut. | Close, hand into leaf | Transformation |
+| 43 | 4:30–4:34 | The Homecoming | The stairs | Marcus' feet climb the stairwell toward Walter's floor. | Tracking beside his feet. | Low, feet and steps, light ahead | Return |
+| 44 | 4:34–4:38 | The Homecoming | The door | Marcus stands at Walter's open door, where the chair waits; his hand is raised to knock. | Over-the-shoulder. | Medium, from behind, the chair in the doorway | Courage |
+| 45 | 4:38–4:43 | The Homecoming | Father and son | Walter stands with his cane; the two men embrace, seen from behind. | Slow push-in, steady. | Medium, from behind, two backs | Reunion |
+| 46 | 4:43–4:47 | The Homecoming | Each brings someone | Maria, Daniel, Jordan, Rose and Marcus arrive, each beside the person they helped: the roofer, the bully, the woman in the coat, the stranger. | Pull-back crane through the doorway. | Wide, a crowded room in one light | Fruit |
+| 47 | 4:47–4:51 | The Homecoming | The vine of light | The golden light passes hand to hand through the whole room and rises through the roof as one vine. | High crane up through the ceiling and over the roof. | Extreme wide, high, one vine of light over the city | Glory |
+| 48 | 4:51–4:56 | The Homecoming | Next New Year | The same street; all six stand with those they helped as fireworks open; Daniel is in his chair and Walter on his cane. | Slow orbit up to a high shot. | Wide, high, many figures together, the light rising with the fireworks | Fruit |
 
 Times are estimates until the tap-sync with the lyric timing. Macro and time-lapse shots use text-only LTX; shots with people use a first frame from the character sheets (image-to-video).
