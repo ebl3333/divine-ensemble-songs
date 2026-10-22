@@ -47,8 +47,8 @@ ev.append("Dialogue: 0,0:00:01.80,0:00:08.20,Sub,,0,0,0,,{\\fad(1200,900)\\pos(9
 # End credits over the closing shot (last line ends at 6:13.2)
 E = 374.5
 cr = [("Title", "Jesus Savior Redeemer Friend", 420, 0.0), ("Sub", "DIVINE ENSEMBLE", 520, 0.4),
-      ("Credit", "Producer  Edward Liu", 640, 1.0), ("Credit", "Production  Dazadi Music", 700, 1.3),
-      ("Sub", "dazadi.org", 810, 1.8)]
+      ("Credit", "Lyrics  Jay Michael Bowman", 640, 1.0), ("Credit", "Producer  Edward Liu", 700, 1.3),
+      ("Credit", "Production  Dazadi Music", 760, 1.6), ("Sub", "dazadi.org", 860, 2.0)]
 for st, t, y, dl in cr:
     ev.append(f"Dialogue: 1,{ts(E + dl)},{ts(391.5)},{st},,0,0,0,,{{\\fad(900,1200)\\pos(960,{y})}}{t}")
 
