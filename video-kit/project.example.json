@@ -1,0 +1,24 @@
+{
+  "title": "Song Title Here",
+  "artist": "DIVINE ENSEMBLE",
+  "song": "song.mp3",
+  "credits": ["Lyrics  Jay Michael Bowman", "Producer  Edward Liu", "Production  Dazadi Music"],
+  "footer": "dazadi.org",
+  "lead": 0.25,
+  "snap": 0.8,
+  "shots": [
+    {"n": 1, "start": "0:00", "end": "0:04", "label": "1B", "speed": 1.0, "note": "intro, slow"},
+    {"n": 2, "start": "0:04", "end": "0:09", "label": "2A"}
+  ],
+  "view_keys": {
+    "far": "He is seen small and far away; his face is not visible. ",
+    "turning": "We see him from behind and slightly to one side, over his shoulder; his face stays turned away. ",
+    "glimpse": "Only part of him is seen, a hand, a sleeve, a tassel or a distant figure; his face is not visible. ",
+    "half": "We see him from the side and slightly behind: the edge of his cheek and the line of his nose and beard in soft shadow; never his full face, never his eyes looking at us. ",
+    "profile": "We see him in side profile, his eyes looking ahead, never toward the camera; never seen from the front. ",
+    "facing": "We see him clearly, walking toward us: his face is visible, calm, kind and steady, with long dark brown wavy hair and a full natural dark beard exactly as on the character sheet. "
+  },
+  "look": "Yeshua, a first-century Galilean Jewish man in his early thirties, six feet tall and noticeably taller than those around him, lean and weathered with sun-tanned olive skin. Long dark brown wavy hair past his shoulders; full natural dark beard; hair at the temples and edges of the beard never trimmed (Leviticus 19:27). Plain undyed wool robe and mantle with blue-thread tassels (Numbers 15:38).",
+  "slow": "This is not a story being told: the camera quietly witnesses one moment already in progress, in gentle slow motion, fabric, hair, dust and water drifting softly as if time is held still. ",
+  "avoid": " Avoid: printed words or titles, black bars, white edge lines, collage or grid, vignette, color grade, pink tint (keep warm natural gold), plastic or overly smooth skin, film grain, fast action, jarring cuts, blood, a young or clean-shaven Yeshua, short or trimmed hair, modern clothing on anyone, lens flare, extra hands or arms."
+}
