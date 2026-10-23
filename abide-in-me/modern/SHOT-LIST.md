@@ -9,7 +9,7 @@ Album: *God Is About to Show Up* (track 2, reprise, 4:56) · Divine Ensemble · 
 - No dialogue. No face close-ups. Emotion by gesture, position, hands, back, feet, silhouette and light.
 - Yeshua is never shown full-face: only the wounded hand and arm in golden light, or light itself. He never looks at the camera.
 - Show the lack (empty lunch box, cane, wheelchair, empty wallet, shaking hands) in the same shot as the gift. Warm and steady, not frantic.
-- Only bullying is shown as harm (Jordan). No needles, no drug use, no blood on screen. Natural light; no text; no vignette; no grain.
+- Harm shown: bullying (Jordan) and an angry public crowd. The block answers it together, calm and silent, with bread, never with force. No needles, no drug use, no blood on screen. Natural light; no text; no vignette; no grain.
 
 ## Cast
 | Name | Age and role | Struggle | Occasion (mask) | Prayer place | What they give from lack |
@@ -19,7 +19,7 @@ Album: *God Is About to Show Up* (track 2, reprise, 4:56) · Divine Ensemble · 
 | Jordan | 14, young teenager | Bullying | School Christmas party | School stairwell | Steps between a bully and a smaller kid, then gives the bully his jacket and half his lunch |
 | Marcus | Late 20s, unmarried, Walter's son | Addiction, guilt | New Year's Eve countdown | Hospital corridor | His scarf, to a grandmother in poverty |
 | Walter | Early 80s, widower | Sickness, loneliness | Christmas morning alone | Beside his bed, the empty chair | Opens his door to the block's children and gives his last biscuits |
-| Rose | Late 70s, neighbor | Carries others in prayer, her own loneliness | Thanksgiving at church hall | Bare pew | Cooks for the whole block |
+| Rose | Late 70s, neighbor | Carries others in prayer, her own loneliness | Thanksgiving at church hall | Bare pew | Cooks for the whole block, and brings the bread to the angry crowd |
 
 ## The 48 shots
 | # | Time | Part | Scene | Action | Camera | Ends on | Mood |
@@ -48,22 +48,22 @@ Album: *God Is About to Show Up* (track 2, reprise, 4:56) · Divine Ensemble · 
 | 22 | 1:59–2:05 | The Giving | A room of laughter | Children climb around Walter's chair; his shoulders shake with laughter. | Orbit slowly, handheld to steady. | Wide, from behind, children and one old man in warm light | Wholesome joy |
 | 23 | 2:05–2:12 | The Giving | The boy with no lunch | In Maria's classroom one boy sits with an empty lunch box while the others eat. | Slow push-in on the empty box. | Close, hands on an empty box, others blurred | Need |
 | 24 | 2:12–2:18 | The Giving | Her own lunch | Maria slips her own lunch across the desk to him and sits down with nothing. | Over-the-shoulder, steady. | Medium, from behind, a hand sliding a lunch across | Sacrifice |
-| 25 | 2:18–2:24 | The Giving | Her empty desk | Maria's desk with her own place empty, a bare table and a folded napkin. | Static, then slow push-in. | Medium, the empty place, the children eating | Unseen kindness |
-| 26 | 2:24–2:30 | The Giving | The boy shares | The boy breaks his bread and passes half to a smaller child. | Tracking along the table, steady. | Medium, hands passing bread down the line | Fruit |
-| 27 | 2:30–2:36 | The Giving | The push | The bigger boy shoves a smaller kid in the schoolyard. | Handheld, low. | Medium, a small boy stumbling | Harm |
-| 28 | 2:36–2:43 | The Giving | Jordan steps between | Jordan, small and bruised, steps between them and holds up an open hand. | Low-angle push-in, slow motion. | Low, a small boy standing tall between two | Justice |
-| 29 | 2:43–2:49 | The Giving | The bully alone | The bigger boy sits alone on the school steps as a car drives off; his shoulders shake, his fists are clenched. | Slow push-in from behind, handheld. | Medium, from behind, a big boy folded on the steps | Pain behind the bully |
-| 30 | 2:49–2:55 | The Giving | The jacket and the bread | Jordan sits beside him, lays his own jacket over the boy's shoulders and splits his lunch; the bully's fist opens. | Close on hands, then pull back and up. | Close, fist opening, a jacket settling | Mercy |
-| 31 | 2:55–3:01 | The Giving | The grocery line | Daniel in his chair waits behind a young widow with a baby; her total is more than she has. | Low angle at wheelchair height. | Low, a counter, a baby on her hip, Daniel behind | Seeing need |
-| 32 | 3:01–3:07 | The Giving | The wallet | Daniel opens his worn wallet and pours everything he has onto the counter. | Macro on his hands and the wallet. | Close, hands, coins and bills | Giving all |
-| 33 | 3:07–3:14 | The Giving | The empty wallet | Daniel folds the empty wallet shut and rests his hands in his lap. | Slow push-in. | Close, hands only | Peace in lack |
-| 34 | 3:14–3:20 | The Giving | The small hand | The baby's tiny hand grips Daniel's finger; the widow holds her bags of food. | Rack focus from the bags to the two hands. | Close, a baby's hand on a man's finger | Joy |
-| 35 | 3:20–3:26 | The Giving | The cold bench | An old grandmother in poverty sits shivering at a bus stop in the dark. | Slow crane down. | Wide, high, a small figure on a bench | Need |
-| 36 | 3:26–3:32 | The Giving | The scarf | Marcus, still shaking, takes off his scarf and wraps it around her shoulders. | Over-the-shoulder, steady. | Medium, from behind, a scarf settling | Generosity |
-| 37 | 3:32–3:38 | The Giving | Her hand on his | The grandmother lays her hand over his shaking one; golden light passes between them. | Rack focus from the hands to the light. | Close, two hands, light flowing | The Word moves |
-| 38 | 3:38–3:45 | The Giving | The stove | Rose's kitchen at night; every burner runs, pots steaming, bread rising. | Slow tracking along the counter. | Medium, hands working among steam | Overflow |
-| 39 | 3:45–3:51 | The Giving | Doors open | Doors open along the hallway; neighbors come out carrying plates. | Tracking down the corridor. | Wide, a long hallway of open doors | Community |
-| 40 | 3:51–3:57 | The Giving | The long table | Tables are set end to end down the street and fill with food and people. | High crane up. | Wide, high, a street-long table | Feast |
+| 25 | 2:18–2:24 | The Giving | The boy shares | The boy breaks his bread and passes half to a smaller child. | Tracking along the table, steady. | Medium, hands passing bread down the line | Fruit |
+| 26 | 2:24–2:30 | The Giving | The push | The bigger boy shoves a smaller kid in the schoolyard. | Handheld, low. | Medium, a small boy stumbling | Harm |
+| 27 | 2:30–2:36 | The Giving | Jordan steps between | Jordan, small and bruised, steps between them and holds up an open hand. | Low-angle push-in, slow motion. | Low, a small boy standing tall between two | Justice |
+| 28 | 2:36–2:43 | The Giving | The bully alone | The bigger boy sits alone on the school steps as a car drives off; his shoulders shake, his fists are clenched. | Slow push-in from behind, handheld. | Medium, from behind, a big boy folded on the steps | Pain behind the bully |
+| 29 | 2:43–2:49 | The Giving | The jacket and the bread | Jordan sits beside him, lays his own jacket over the boy's shoulders and splits his lunch; the bully's fist opens. | Close on hands, then pull back and up. | Close, fist opening, a jacket settling | Mercy |
+| 30 | 2:49–2:55 | The Giving | The grocery line | Daniel in his chair waits behind a young widow with a baby; her total is more than she has. | Low angle at wheelchair height. | Low, a counter, a baby on her hip, Daniel behind | Seeing need |
+| 31 | 2:55–3:01 | The Giving | The wallet | Daniel opens his worn wallet and pours everything he has onto the counter. | Macro on his hands and the wallet. | Close, hands, coins and bills | Giving all |
+| 32 | 3:01–3:07 | The Giving | The empty wallet | Daniel folds the empty wallet shut and rests his hands in his lap. | Slow push-in. | Close, hands only | Peace in lack |
+| 33 | 3:07–3:14 | The Giving | The small hand | The baby's tiny hand grips Daniel's finger; the widow holds her bags of food. | Rack focus from the bags to the two hands. | Close, a baby's hand on a man's finger | Joy |
+| 34 | 3:14–3:20 | The Giving | The cold bench | An old grandmother in poverty sits shivering at a bus stop in the dark. | Slow crane down. | Wide, high, a small figure on a bench | Need |
+| 35 | 3:20–3:26 | The Giving | The scarf | Marcus, still shaking, takes off his scarf and wraps it around her shoulders. | Over-the-shoulder, steady. | Medium, from behind, a scarf settling | Generosity |
+| 36 | 3:26–3:32 | The Giving | Her hand on his | The grandmother lays her hand over his shaking one; golden light passes between them. | Rack focus from the hands to the light. | Close, two hands, light flowing | The Word moves |
+| 37 | 3:32–3:38 | The Giving | The stove | Rose's kitchen at night; every burner runs, pots steaming, bread rising. | Slow tracking along the counter. | Medium, hands working among steam | Overflow |
+| 38 | 3:38–3:45 | The Giving | The shouting crowd | At the end of the street an angry crowd shouts and pushes, fists raised, signs of unrest, seen from a distance with no dialogue; Marcus and the grandmother stand at its edge. | Wide, handheld, slightly shaking, then a slow push-in on the raised fists. | Wide, a surging crowd against a dark street | Disturbance |
+| 39 | 3:45–3:51 | The Giving | The block comes out | Doors open and the neighbors step out and stand in a calm, silent line across the street: Walter on his cane, Maria with her pupils, Daniel in his chair, Jordan, Marcus, Rose with a pot. | Slow crane up and back over the line. | Wide, high, a quiet line facing a loud crowd | Justice |
+| 40 | 3:51–3:57 | The Giving | Bread at their feet | Rose sets her steaming pot and bread at the crowd's feet; the fists lower one by one and the crowd falls still. | Low push-in on the pot, then a slow pull-back. | Wide, a crowd lowering its hands around a pot of bread | Anger drains |
 | 41 | 3:57–4:03 | The Giving | The binding | The same wounded hand wraps the grafted branch with tape and seals it with wax. | Macro, gentle. | Macro, the wound on the wrist glowing gold, no face | Held |
 | 42 | 4:03–4:09 | The Giving | Sap rising | Time-lapse: a bud swells and a leaf opens on the grafted branch. | Locked-off macro time-lapse. | Macro, the leaf unfurling | Life |
 | 43 | 4:09–4:16 | The Giving | The match cut | Marcus' hand on the grandmother's shoulder dissolves into a leaf opening on the vine. | Match cut. | Close, hand into leaf | Transformation |
