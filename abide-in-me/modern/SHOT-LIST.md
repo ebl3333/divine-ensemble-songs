@@ -3,81 +3,74 @@
 Album: *God Is About to Show Up* (track 2, reprise, 4:56) · Divine Ensemble · Production: Dazadi Music
 
 ## What this film is
-**Overcoming means giving while still in lack.** Each of the six is not healed first; they reach out to someone else from inside their own shortage: Walter on his cane offers his chair, Maria gives away her own dinner, Jordan puts his jacket on the boy who bullied him, Daniel holds the ladder for a young worker, Marcus sits beside another man in the corridor, and Rose gives her coat. That is the graft: a branch bound into the vine bears fruit for others.
-
-Six people on one city block, each hurting behind a mask. At holidays and gatherings they pretend or watch others enjoy life. Each reaches a bottom and prays, using the body and not words. Christ comes as a hand, a figure from behind and a golden light that enters like sap. They are grafted into the vine, and the film ends at the next New Year with all six together with those they helped, and one vine of light over the city.
+**Abiding is a way of living: joy and justice that rise above harm.** Six people on one city block each hurt behind a mask. Each reaches a bottom and prays with the body, not words. Christ is never seen but felt: the same wounded hand that grafts the vine in the opening (a hole-shaped wound on the wrist, shining gold, no blood) reaches into their rooms, and people feel Him without seeing. Then each gives from inside their own lack, warmly and steadily. The film peaks in a rooftop celebration under one vine of light.
 
 ## Rules
-- **No dialogue.** Nobody talks to anyone. Prayer is body only.
-- **No face close-ups.** Emotion by gesture, position, hands, back, feet, silhouette and light.
-- Yeshua is never shown full-face: a hand, a figure from behind in cream, far silhouette, or light. He never looks at the camera.
-- Light is living water: it wells up inside a person, flows to the next, and many springs become one vine.
-- Distance shows healing: alone and far at the start, close and together at the end. Handheld and cold when low; smooth and warm after the light.
-- Overcoming is shown by giving from lack: show the lack (empty plate, cane, wheelchair, shaking hands, no coat) in the same shot as the gift. Nobody is shown fully fixed.
-- No needles, no drug use, no blood on screen. Real, natural light; no text; no vignette; no grain; no jarring cuts.
+- No dialogue. No face close-ups. Emotion by gesture, position, hands, back, feet, silhouette and light.
+- Yeshua is never shown full-face: only the wounded hand and arm in golden light, or light itself. He never looks at the camera.
+- Show the lack (empty lunch box, cane, wheelchair, empty wallet, shaking hands) in the same shot as the gift. Warm and steady, not frantic.
+- Only bullying is shown as harm (Jordan). No needles, no drug use, no blood on screen. Natural light; no text; no vignette; no grain.
 
 ## Cast
-| Name | Age and role | Struggle | Occasion (mask) | Prayer place |
-|---|---|---|---|---|
-| Maria | Late 30s, housewife, mother of two | Loneliness, feeling unseen | Child's birthday party | Kitchen floor, 3 a.m. |
-| Daniel | Early 40s, her husband; wheelchair after a fall at work | Injury, shame, pride | Fourth of July street | Garage workbench |
-| Jordan | 14, young teenager | Bullying | School Christmas party | School stairwell |
-| Marcus | Late 20s, unmarried, Walter's son | Addiction, guilt | New Year's Eve countdown | Hospital corridor |
-| Walter | Early 80s, widower | Sickness, loneliness, waiting for his son | Christmas morning alone | Beside his bed, the empty chair |
-| Rose | Late 70s, neighbor | Carries others in prayer, her own loneliness | Thanksgiving at church hall | Bare pew |
+| Name | Age and role | Struggle | Occasion (mask) | Prayer place | What they give from lack |
+|---|---|---|---|---|---|
+| Maria | Late 30s, teacher of young children | Loneliness, feeling unseen | Birthday party in her classroom | Kitchen floor, 3 a.m. | Her own lunch, to a boy who has none |
+| Daniel | Early 40s, wheelchair after a fall at work | Injury, shame, pride | Fourth of July street | Garage workbench | Everything in his wallet, to pay a young widow's groceries |
+| Jordan | 14, young teenager | Bullying | School Christmas party | School stairwell | Steps between a bully and a smaller kid, then gives the bully his jacket and half his lunch |
+| Marcus | Late 20s, unmarried, Walter's son | Addiction, guilt | New Year's Eve countdown | Hospital corridor | His scarf, to a grandmother in poverty |
+| Walter | Early 80s, widower | Sickness, loneliness | Christmas morning alone | Beside his bed, the empty chair | Opens his door to the block's children and gives his last biscuits |
+| Rose | Late 70s, neighbor | Carries others in prayer, her own loneliness | Thanksgiving at church hall | Bare pew | Cooks for the whole block |
 
 ## The 48 shots
-Camera moves used: drone, crane up and down, orbit, push-in, pull-back, rack focus, dolly zoom, tracking, over-the-shoulder, low angle, top-down, macro, time-lapse, match cut, silhouette, handheld to steady.
-
 | # | Time | Part | Scene | Action | Camera | Ends on | Mood |
 |---|---|---|---|---|---|---|---|
 | 1 | 0:00–0:06 | The Cut | Vineyard at dawn | Mist over rows of old grapevines; one gnarled vine stands apart with a dead, grey branch. | Drone glides low over the rows toward the lone vine. | Wide, high, the lone vine in gold dawn light | Hush |
-| 2 | 0:06–0:13 | The Cut | The knife | A weathered hand holds a grafting knife to the old vine. | Macro push-in; the blade makes one clean slanting cut; the green living line (cambium) shows. | Macro, the cut surface, no face | Awe, cost |
-| 3 | 0:13–0:19 | The Cut | The broken branch | A dry, broken branch, cut into a wedge, rests in an open palm. | Rack focus from the palm to the vine behind it. | Close, hands only | Longing |
+| 2 | 0:06–0:13 | The Cut | The knife | Yeshua's hand, with a hole-shaped wound on the wrist glowing gold (no blood), holds a grafting knife to the old vine. | Macro push-in; the blade makes one clean slanting cut; the green living line (cambium) shows. | Macro, the cut surface, no face | Awe, cost |
+| 3 | 0:13–0:19 | The Cut | The broken branch | A dry, broken branch, cut into a wedge, rests in the same wounded, gold-lit palm. | Rack focus from the palm to the vine behind it. | Close, hands only | Longing |
 | 4 | 0:19–0:26 | The Cut | The block at night | A city apartment block and a small street; six windows are lit, each with one still figure. | Slow crane up and back to show all six windows. | Wide, high, six lit windows | Aloneness |
-| 5 | 0:26–0:32 | The Masks | Maria's birthday | Maria cuts a child's birthday cake in a bright kitchen; children cheer; her husband's chair is empty. | Wide static; she sets down the knife and straightens a balloon again. | Wide, eye level, Maria small among noise | Pretending |
-| 6 | 0:32–0:39 | The Masks | The grip | Maria's free hand grips her own elbow while the other holds the plate. | Slow push-in on the hand; the party blurs behind. | Close, hands, party soft | Hidden hurt |
-| 7 | 0:39–0:46 | The Masks | Fourth of July | Daniel in a wheelchair at the top of a porch ramp; neighbors on the street watch fireworks. | Camera drops to wheelchair height; a wall of legs, the sky far above. | Low, behind Daniel, crowd lit by fireworks | Left out |
-| 8 | 0:46–0:53 | The Masks | The wheel | Daniel's hand rests on the wheel; he turns the chair away from the crowd. | Rack focus from the fireworks to his hand on the wheel. | Close, hand and wheel | Shame |
-| 9 | 0:53–1:00 | The Masks | School Christmas party | Jordan (14) at a school Christmas party; kids swap gifts in a circle; the gap beside him widens. | Static wide; a slow dolly sideways along the circle. | Wide, Jordan at the edge holding one small wrapped box | Isolation |
-| 10 | 1:00–1:06 | The Masks | The shield | Jordan holds a book against his chest and drifts the other way down an empty hallway. | Tracking behind, handheld. | Medium, from behind, a bright party at the far end | Shrinking |
-| 11 | 1:06–1:13 | The Masks | New Year's countdown | Marcus on a crowded street at midnight; confetti falls and strangers kiss. | Orbit slowly around him as the crowd spins. | Medium, from behind, Marcus the only still figure | Numb |
-| 12 | 1:13–1:20 | The Masks | The cup | Marcus raises a plastic cup; his hand shakes; then it lowers. | Dolly zoom as the glass drops to his side. | Close, hand and cup, no face | The mask slips |
-| 13 | 1:20–1:27 | The Masks | Walter's Christmas | Walter at his window on Christmas morning; a small tree, one card, a plate set for two. | Slow push-in from inside the room. | Medium, from behind, other families glowing in far windows | Aching |
-| 14 | 1:27–1:34 | The Masks | The empty plate | Rose in a church hall at Thanksgiving serving everyone; her own place is set and unused. | Rack focus from the busy table to her untouched cup. | Wide, high, Rose always standing | Hidden loneliness |
-| 15 | 1:34–1:41 | The Masks | The last to sit | Rose finally sits alone after everyone leaves and folds her hands. | Slow pull-back through the empty hall. | Wide, low, tables and one small figure | Quiet cost |
-| 16 | 1:41–1:47 | The Prayers | Walter's empty chair | A wooden chair beside Walter's bed with a knitted cardigan folded on it. | Slow push-in, lamp light only. | Medium, low, the chair | Waiting |
-| 17 | 1:47–1:53 | The Prayers | Walter prays | Walter's old hands lift off the blanket and open toward the chair. | Overhead, then rack focus to a thin line of gold under the door. | Top-down, hands and chair | Longing |
-| 18 | 1:53–2:00 | The Prayers | Maria on the floor | Maria kneels on the kitchen floor at 3 a.m., forehead down, hands open on the tile. | Top-down overhead, handheld shaking. | Overhead, a small body on a big floor | Broken |
-| 19 | 2:00–2:06 | The Prayers | The light under the door | Gold light spreads along the kitchen floor toward her hands. | Slow crane down. | High to low, light reaching her hands | Arrival |
-| 20 | 2:06–2:13 | The Prayers | Jordan in the stairwell | Jordan crouches on the stairs, his book on the step, hands over his head. | Static, then a slow push-in from above. | High, from behind, a boy folded small | Surrender |
-| 21 | 2:13–2:19 | The Prayers | Face down | Jordan puts a cracked phone face-down on the step and lifts open hands. | Macro on the phone, then pull back. | Close, phone then hands | Letting go |
-| 22 | 2:19–2:25 | The Prayers | Daniel's garage | Daniel in the chair by his old workbench; tools hang out of reach. | Slow push-in, handheld. | Medium, from behind, the wall of tools | Pride |
-| 23 | 2:25–2:32 | The Prayers | Open hands | Daniel lifts both hands open from the wheels and bows his head. | Orbit slowly around him. | Medium, circling, warm light from a high window | Surrender |
-| 24 | 2:32–2:38 | The Prayers | Marcus on the hospital floor | Marcus slides down a hospital corridor wall and sits on the tile with shaking hands. | Dolly zoom as the hallway stretches. | Wide, low, a young man alone in a long corridor | Conviction |
-| 25 | 2:38–2:45 | The Prayers | The shaking hands | Marcus holds up his trembling hands, looks at them, then folds them on his knees. | Rack focus from his hands to the light on the corridor floor. | Close, hands, no face | Breaking |
-| 26 | 2:45–2:51 | The Prayers | Rose kneels | Rose kneels at a bare church pew, hands folded, shoulders shaking. | Slow push-in, handheld then steady. | Medium, from behind, a single figure in an empty hall | Intercession |
-| 27 | 2:51–2:58 | The Prayers | The golden thread | A thin thread of golden light runs from her folded hands out across the floor toward the city. | Crane up and follow the thread out through a window. | Wide, high, the thread leaving the hall | The Word moves |
-| 28 | 2:58–3:04 | The Graft | The figure sits | A figure in silhouette from behind, in cream, sits in Walter's empty chair; no face. | Over-the-shoulder from Walter's bed; focus on the chair. | Medium, a shoulder and long hair in warm light | Presence |
-| 29 | 3:04–3:10 | The Graft | The chair offered | Walter, weak on his cane and shaking, drags the chair to his open doorway for anyone who passes. | Low tracking, handheld, slow. | Medium, low, a frail man pulling a chair into the light of the hall | Giving from weakness |
-| 30 | 3:10–3:16 | The Graft | Maria's own plate | Maria covers her own dinner plate on the table and carries it out; her place at the table is left empty. | Static wide, then a push-in on the empty place. | Medium, her hand lifting the plate, an empty table | Sacrifice |
-| 31 | 3:16–3:22 | The Graft | The plate on the chair | Maria sets her plate on the chair at Walter's door and walks away hungry. | Over-the-shoulder, steady. | Medium, from behind, a plate in warm light on a chair | Unseen kindness |
-| 32 | 3:22–3:28 | The Graft | The bully alone | The bigger boy sits alone on the school steps as a car drives off; his shoulders shake, his fists are clenched. | Slow push-in from behind, handheld. | Medium, from behind, a big boy folded on the steps | Pain behind the bully |
-| 33 | 3:28–3:34 | The Graft | Jordan crosses | Jordan, still bruised, crosses the empty yard toward him. | Low-angle tracking, slow motion. | Low, a small boy walking toward the one who hurt him | Courage |
-| 34 | 3:34–3:40 | The Graft | The jacket | Jordan sits beside him and lays his own jacket over the bully's shoulders; the bully's fist slowly opens. | Close on hands and fabric, no faces, then pull back. | Close, fist opening, a jacket settling | Forgiveness |
-| 35 | 3:40–3:47 | The Graft | Daniel at the ladder | At a house under construction a young roofer starts up a ladder; Daniel, in his chair, rolls over. | Low angle at wheelchair height, tracking. | Low, the ladder rising, the chair at its foot | Remembering |
-| 36 | 3:47–3:53 | The Graft | Held steady | Daniel grips both rails of the ladder with white knuckles and holds it still while the young man climbs. | Macro on his hands, then crane up. | Macro, hands on rails, then a wide shot of the young man at the top | Overcoming |
-| 37 | 3:53–3:59 | The Graft | Marcus beside another | In the hospital corridor a young man crashes against the wall; Marcus, still shaking, sits beside him and puts a hand on his back. | Over-the-shoulder, steady. | Medium, from behind, two young men on the floor | Mercy |
-| 38 | 3:59–4:05 | The Graft | The light passes | Golden light runs from Marcus' hand into the other man's back like sap. | Rack focus from the hand to the light. | Close, a hand on a back, light flowing | The Word moves |
-| 39 | 4:05–4:11 | The Graft | Rose's coat | On a cold New Year's street Rose takes off her own coat and puts it on a homeless woman, then stands in the cold. | Slow crane up from the two women. | Wide, high, a small figure in her sweater giving her coat | Giving from lack |
-| 40 | 4:11–4:17 | The Graft | The binding | Hands wrap the grafted branch with tape and seal it with wax. | Macro, gentle. | Macro, no faces | Held |
-| 41 | 4:17–4:23 | The Graft | Sap rising | Time-lapse: a bud swells and a leaf opens on the grafted branch. | Locked-off macro time-lapse. | Macro, the leaf unfurling | Life |
-| 42 | 4:23–4:30 | The Graft | The match cut | Marcus' hand on the other man's back dissolves into a leaf opening on the vine. | Match cut. | Close, hand into leaf | Transformation |
-| 43 | 4:30–4:34 | The Homecoming | The stairs | Marcus' feet climb the stairwell toward Walter's floor. | Tracking beside his feet. | Low, feet and steps, light ahead | Return |
-| 44 | 4:34–4:38 | The Homecoming | The door | Marcus stands at Walter's open door, where the chair waits; his hand is raised to knock. | Over-the-shoulder. | Medium, from behind, the chair in the doorway | Courage |
-| 45 | 4:38–4:43 | The Homecoming | Father and son | Walter stands with his cane; the two men embrace, seen from behind. | Slow push-in, steady. | Medium, from behind, two backs | Reunion |
-| 46 | 4:43–4:47 | The Homecoming | Each brings someone | Maria, Daniel, Jordan, Rose and Marcus arrive, each beside the person they helped: the roofer, the bully, the woman in the coat, the stranger. | Pull-back crane through the doorway. | Wide, a crowded room in one light | Fruit |
-| 47 | 4:47–4:51 | The Homecoming | The vine of light | The golden light passes hand to hand through the whole room and rises through the roof as one vine. | High crane up through the ceiling and over the roof. | Extreme wide, high, one vine of light over the city | Glory |
-| 48 | 4:51–4:56 | The Homecoming | Next New Year | The same street; all six stand with those they helped as fireworks open; Daniel is in his chair and Walter on his cane. | Slow orbit up to a high shot. | Wide, high, many figures together, the light rising with the fireworks | Fruit |
+| 5 | 0:26–0:30 | The Masks | Maria's classroom party | In her classroom the children celebrate a birthday; Maria claps from the back while her other hand grips her own elbow. | Wide static, then a slow push-in on the gripping hand. | Wide, eye level, Maria small among noise | Pretending |
+| 6 | 0:30–0:34 | The Masks | Fourth of July | Daniel in a wheelchair at the top of a porch ramp; neighbors on the street watch fireworks; he turns his chair away. | Camera drops to wheelchair height; a wall of legs, the sky far above. | Low, behind Daniel, crowd lit by fireworks | Left out |
+| 7 | 0:34–0:38 | The Masks | School Christmas party | Jordan (14) at the edge of a gift-swapping circle holding one small box; the gap beside him widens. | Static wide; a slow dolly sideways along the circle. | Wide, Jordan at the edge | Isolation |
+| 8 | 0:38–0:42 | The Masks | New Year's countdown | Marcus on a crowded street at midnight; confetti falls; his raised cup shakes and lowers. | Orbit slowly around him as the crowd spins. | Medium, from behind, Marcus the only still figure | Numb |
+| 9 | 0:42–0:46 | The Masks | Walter's Christmas | Walter at his window on Christmas morning; a small tree, one card, a plate set for two. | Slow push-in from inside the room. | Medium, from behind, other families glowing in far windows | Aching |
+| 10 | 0:46–0:50 | The Masks | Rose's Thanksgiving | Rose in a church hall serving everyone; her own place is set and unused. | Rack focus from the busy table to her untouched cup. | Wide, high, Rose always standing | Hidden loneliness |
+| 11 | 0:50–0:56 | The Prayers | Walter prays | Walter's old hands lift off the blanket and open toward the empty chair beside his bed. | Overhead, then rack focus to a thin line of gold under the door. | Top-down, hands and chair | Longing |
+| 12 | 0:56–1:02 | The Prayers | Maria on the floor | Maria kneels on the kitchen floor at 3 a.m., forehead down, hands open on the tile. | Top-down overhead, handheld shaking. | Overhead, a small body on a big floor | Broken |
+| 13 | 1:02–1:09 | The Prayers | Jordan in the stairwell | Jordan crouches on the stairs, puts a cracked phone face-down and lifts open hands. | Static, then a slow push-in from above. | High, from behind, a boy folded small | Surrender |
+| 14 | 1:09–1:15 | The Prayers | Daniel's garage | Daniel in the chair by his old workbench, tools hung out of reach; he lifts both hands open from the wheels and bows his head. | Slow push-in, then a slow orbit. | Medium, circling, warm light from a high window | Surrender |
+| 15 | 1:15–1:21 | The Prayers | Marcus on the hospital floor | Marcus slides down a hospital corridor wall, holds up his trembling hands, then folds them on his knees. | Dolly zoom as the hallway stretches; rack focus to the light on the floor. | Wide, low, a young man alone in a long corridor | Conviction |
+| 16 | 1:21–1:28 | The Prayers | Rose kneels | Rose kneels at a bare church pew, hands folded, shoulders shaking. | Slow push-in, handheld then steady. | Medium, from behind, a single figure in an empty hall | Intercession |
+| 17 | 1:28–1:34 | The Prayers | The golden arm | An arm and open hand, a hole-shaped wound on the wrist shining gold (no blood), reaches into each of the six lit windows; nobody sees it, but each person's shoulders ease. | Slow crane past each window. | Wide, high, six windows filling with gold | Presence felt |
+| 18 | 1:34–1:41 | The Prayers | The golden thread | A thin thread of golden light runs from Rose's folded hands out across the floor toward the city. | Crane up and follow the thread out through a window. | Wide, high, the thread leaving the hall | The Word moves |
+| 19 | 1:41–1:47 | The Giving | The door opens | Walter, weak on his cane and shaking, opens his door to the hallway. | Low tracking, handheld, slow. | Medium, low, a frail man in a doorway of light | Giving from weakness |
+| 20 | 1:47–1:53 | The Giving | The children arrive | Neighborhood children pile into Walter's small flat. | Pull-back crane through the doorway. | Wide, a crowded little room | Welcome |
+| 21 | 1:53–1:59 | The Giving | The last biscuits | Walter's trembling hands pass out his last biscuits, one for each child. | Macro on hands, then rack focus to the reaching hands. | Close, hands only | Generosity |
+| 22 | 1:59–2:05 | The Giving | A room of laughter | Children climb around Walter's chair; his shoulders shake with laughter. | Orbit slowly, handheld to steady. | Wide, from behind, children and one old man in warm light | Wholesome joy |
+| 23 | 2:05–2:12 | The Giving | The boy with no lunch | In Maria's classroom one boy sits with an empty lunch box while the others eat. | Slow push-in on the empty box. | Close, hands on an empty box, others blurred | Need |
+| 24 | 2:12–2:18 | The Giving | Her own lunch | Maria slips her own lunch across the desk to him and sits down with nothing. | Over-the-shoulder, steady. | Medium, from behind, a hand sliding a lunch across | Sacrifice |
+| 25 | 2:18–2:24 | The Giving | Her empty desk | Maria's desk with her own place empty, a bare table and a folded napkin. | Static, then slow push-in. | Medium, the empty place, the children eating | Unseen kindness |
+| 26 | 2:24–2:30 | The Giving | The boy shares | The boy breaks his bread and passes half to a smaller child. | Tracking along the table, steady. | Medium, hands passing bread down the line | Fruit |
+| 27 | 2:30–2:36 | The Giving | The push | The bigger boy shoves a smaller kid in the schoolyard. | Handheld, low. | Medium, a small boy stumbling | Harm |
+| 28 | 2:36–2:43 | The Giving | Jordan steps between | Jordan, small and bruised, steps between them and holds up an open hand. | Low-angle push-in, slow motion. | Low, a small boy standing tall between two | Justice |
+| 29 | 2:43–2:49 | The Giving | The bully alone | The bigger boy sits alone on the school steps as a car drives off; his shoulders shake, his fists are clenched. | Slow push-in from behind, handheld. | Medium, from behind, a big boy folded on the steps | Pain behind the bully |
+| 30 | 2:49–2:55 | The Giving | The jacket and the bread | Jordan sits beside him, lays his own jacket over the boy's shoulders and splits his lunch; the bully's fist opens. | Close on hands, then pull back and up. | Close, fist opening, a jacket settling | Mercy |
+| 31 | 2:55–3:01 | The Giving | The grocery line | Daniel in his chair waits behind a young widow with a baby; her total is more than she has. | Low angle at wheelchair height. | Low, a counter, a baby on her hip, Daniel behind | Seeing need |
+| 32 | 3:01–3:07 | The Giving | The wallet | Daniel opens his worn wallet and pours everything he has onto the counter. | Macro on his hands and the wallet. | Close, hands, coins and bills | Giving all |
+| 33 | 3:07–3:14 | The Giving | The empty wallet | Daniel folds the empty wallet shut and rests his hands in his lap. | Slow push-in. | Close, hands only | Peace in lack |
+| 34 | 3:14–3:20 | The Giving | The small hand | The baby's tiny hand grips Daniel's finger; the widow holds her bags of food. | Rack focus from the bags to the two hands. | Close, a baby's hand on a man's finger | Joy |
+| 35 | 3:20–3:26 | The Giving | The cold bench | An old grandmother in poverty sits shivering at a bus stop in the dark. | Slow crane down. | Wide, high, a small figure on a bench | Need |
+| 36 | 3:26–3:32 | The Giving | The scarf | Marcus, still shaking, takes off his scarf and wraps it around her shoulders. | Over-the-shoulder, steady. | Medium, from behind, a scarf settling | Generosity |
+| 37 | 3:32–3:38 | The Giving | Her hand on his | The grandmother lays her hand over his shaking one; golden light passes between them. | Rack focus from the hands to the light. | Close, two hands, light flowing | The Word moves |
+| 38 | 3:38–3:45 | The Giving | The stove | Rose's kitchen at night; every burner runs, pots steaming, bread rising. | Slow tracking along the counter. | Medium, hands working among steam | Overflow |
+| 39 | 3:45–3:51 | The Giving | Doors open | Doors open along the hallway; neighbors come out carrying plates. | Tracking down the corridor. | Wide, a long hallway of open doors | Community |
+| 40 | 3:51–3:57 | The Giving | The long table | Tables are set end to end down the street and fill with food and people. | High crane up. | Wide, high, a street-long table | Feast |
+| 41 | 3:57–4:03 | The Giving | The binding | The same wounded hand wraps the grafted branch with tape and seals it with wax. | Macro, gentle. | Macro, the wound on the wrist glowing gold, no face | Held |
+| 42 | 4:03–4:09 | The Giving | Sap rising | Time-lapse: a bud swells and a leaf opens on the grafted branch. | Locked-off macro time-lapse. | Macro, the leaf unfurling | Life |
+| 43 | 4:09–4:16 | The Giving | The match cut | Marcus' hand on the grandmother's shoulder dissolves into a leaf opening on the vine. | Match cut. | Close, hand into leaf | Transformation |
+| 44 | 4:16–4:24 | The Rooftop | Up the stairs | All six and everyone they helped climb the stairs carrying food, bread and instruments. | Tracking up the stairwell, energetic. | Medium, a crowd climbing toward light | Rising |
+| 45 | 4:24–4:32 | The Rooftop | The roof table | On the rooftop a long table of bread and food under strings of lights; the city glows below. | High crane in over the roof. | Wide, high, the table, the people, the skyline | Celebration |
+| 46 | 4:32–4:40 | The Rooftop | The golden hand | An arm and open hand with a shining wound on the wrist appears at the edge of the frame, lit gold; nobody looks, but every face lifts and every hand rises as if they feel Him. | Slow crane up as hands lift. | Wide, high, many hands raised in golden light | Presence felt |
+| 47 | 4:40–4:48 | The Rooftop | The dance | They dance in a circle: children spin Daniel's chair, Walter sways on his cane, Rose passes bread, Maria's pupils run through. | Orbit fast, handheld, energetic. | Wide, a circle of dancers under lights | Wholesome joy |
+| 48 | 4:48–4:56 | The Rooftop | The vine of light | The golden light passes hand to hand through everyone, rises over the rooftop as one vine, and fireworks open above the city. | High crane up and away over the city. | Extreme wide, high, one vine of light over the city | Glory |
 
-Times are estimates until the tap-sync with the lyric timing. Macro and time-lapse shots use text-only LTX; shots with people use a first frame from the character sheets (image-to-video).
+Times are estimates until the tap-sync with the lyric timing.
